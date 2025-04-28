@@ -27,17 +27,17 @@
       "name": "Logpoint",
       "position": "Product Marketing Manager",
       "url": "https://example.com",
-      "startDate": "Jan 2023",
-      "endDate": "Apr 2025",
+      "startDate": "2023 Jan",
+      "endDate": "2025 Apr",
       "summary": "I led the go-to-market strategy for multiple cybersecurity products, developed product positioning, product messaging, value proposition, and sales enablement materials, and managed over 10 product launches and the launch of one pricing and packaging to drive sales and generate leads.",
-      "highlights": ["PMM, Sales Enablement, Go-To-Market Strategies, Pipeline Acceleration"]
+      "highlights": ["Product Marketing, Sales Enablement, Go-To-Market Strategy, Pipeline Acceleration, Account-Based Marketing"]
     },
     {
       "name": "SumUp",
       "position": "CX Manager",
       "url": "https://example.com",
-      "startDate": "Sep 2021",
-      "endDate": "Nov 2022",
+      "startDate": "2021 Sep",
+      "endDate": "2022 Nov",
       "summary": "I led the CX squad and established a customer-centric culture at SumUp Invoices to drive product and marketing improvements and reduce churn by leveraging customer insights, defining and implementing CX strategies, such as first-ever customer journey maps in SumUp, customer feedback loop programs, NPS, CSAT, and CES.",
       "highlights": ["Customer Experience, Agile Project Management, Design Thinking, Business Analysis"]
     },
@@ -45,10 +45,28 @@
       "name": "SumUp",
       "position": "Regional Marketing Manager - Team Lead UK, ES, IT, DK",
       "url": "https://example.com",
-      "startDate": "Sep 2018",
-      "endDate": "Aug 2021",
+      "startDate": "2018 Sep",
+      "endDate": "2021 Aug",
       "summary": "I led the marketing strategy for SumUp Invoices and Accounting in four regions by driving growth through product marketing, demand generation, and customer success. I contributed to the launch of SumUp Invoices in different markets and managed a team of 8 marketing professionals I have seen grow throughout the years.",
-      "highlights": ["Relativity"]
+      "highlights": ["Content Marketing, Go-To-Market Strategies, Growth Marketing, SEO &  PPC, Email Marketing"]
+    },
+    {
+      "name": "SumUp",
+      "position": "Digital Content Specialist",
+      "url": "https://example.com",
+      "startDate": "2016 Sep",
+      "endDate": "2018 Aug",
+      "summary": "Through engaging written and visual content, I facilitated organic growth and enabled the go-to-market strategies for the launch of new features and products and, ultimately, the announcement of SumUp’s acquisition of Debitoor.",
+      "highlights": ["Content Marketing, Growth Marketing, SEO &  PPC, Email Marketing, Brand Design"]
+    },
+    {
+      "name": "Visma E-Conomic",
+      "position": "Marketing Assistant",
+      "url": "https://example.com",
+      "startDate": "2014 Sep",
+      "endDate": "2016 Aug",
+      "summary": "I contributed to various marketing activities, including content creation, social media management, online marketing, product marketing, graphic design, video editing, and customer support and sales.",
+      "highlights": ["Content Marketing, Growth Marketing, SEO, Email Marketing"]
     }
   ],
   "volunteer": [
