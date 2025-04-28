@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+10 Years in Marketing</p>
-    <p>Specialised in Tech</p>
-    <p>ENFJ-T leader</p>
+    <p>10+ Years in Marketing</p>
+    <p>ENFJ-T Leader</p>
+    <p>Specialised in Tech <br /></p>
     <p>Based in Copenhagen</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
