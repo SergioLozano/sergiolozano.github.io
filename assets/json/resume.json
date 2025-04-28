@@ -30,7 +30,7 @@
       "startDate": "2023 Jan",
       "endDate": "2025 Apr",
       "summary": "I led the go-to-market strategy for multiple cybersecurity products, developed product positioning, product messaging, value proposition, and sales enablement materials, and managed over 10 product launches and the launch of one pricing and packaging to drive sales and generate leads.",
-      "highlights": ["Product Marketing, Sales Enablement, Go-To-Market Strategy, Pipeline Acceleration, Account-Based Marketing"]
+      "highlights": ["Product Marketing, Sales Enablement, Go-To-Market Strategy, Positioning, Pipeline Acceleration, Account-Based Marketing"]
     },
     {
       "name": "SumUp",
@@ -83,15 +83,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Copenhagen Business School",
+      "location": "Copenhagen, Denmark",
+      "url": "",
+      "area": "",
+      "studyType": "MA in International Business Communication (Multicultural Communication in Organisations)",
+      "startDate": "2014 Sep",
+      "endDate": "2016 Jun",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Complutense University of Madrid",
+      "location": "Madrid, Spain",
+      "url": "",
+      "area": "",
+      "studyType": "BA in Journalism",
+      "startDate": "2008 Sep",
+      "endDate": "2013 Jun",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -187,13 +198,28 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Full professional proficiency",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Native or bilingual proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Danish",
+      "fluency": "Professional working proficiency",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary proficiency",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary proficiency",
       "icon": ""
     }
   ],
