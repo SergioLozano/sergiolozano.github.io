@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+10 Years in Marketing</p>
+    <p>Specialised in Tech</p>
     <p>ENFJ-T leader</p>
-    <p>Born in Madrid, based in Copenhagen</p>
+    <p>Based in Copenhagen</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +28,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Sergio! I'm a T-shaped product marketeer clued up in design thinking and with a flair for project management. With over 10 years of experience in B2B marketing and customer experience in the tech industry, I offer an analytical mindset and a strong commitment to high standards. Trained in leadership and having managed international teams across different locations, I enjoy leading by example and embedding empathy into my work style.
+Hi, I'm Sergio! I'm a product marketeer based in Copenhagen who enjoys breaking down complex products into stories to craft messages focusing on real benefits. 
+
+With over 10 years of experience in B2B marketing and customer experience in the tech industry, I offer an analytical mindset and a strong commitment to high standards. Trained in leadership and having managed international teams across different locations, I enjoy leading by example and embedding empathy into my work style.
+
+Others described as me product launch wizard, T-shaped marketer, full-stack product marketing manager, but I like to think that I'm a product marketeer clued up in design thinking and with a flair for project management and hungry for data.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
