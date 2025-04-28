@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sergio Lozano Alvarez",
+    "label": "Product Marketing Manager",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Product Marketing Manager with 10+ years of experience in marketing and CX, skilled in product launches and go-to-market strategies",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "2400",
+      "city": "Copenhagen",
+      "countryCode": "DK",
+      "region": "Hovedstaden"
     },
     "profiles": [
       {
@@ -24,12 +24,30 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Logpoint",
+      "position": "Product Marketing Manager",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "Jan 2023",
+      "endDate": "Apr 2025",
+      "summary": "I led the go-to-market strategy for multiple cybersecurity products, developed product positioning, product messaging, value proposition, and sales enablement materials, and managed over 10 product launches and the launch of one pricing and packaging to drive sales and generate leads.",
+      "highlights": ["PMM, Sales Enablement, Go-To-Market Strategies, Pipeline Acceleration"]
+    },
+    {
+      "name": "SumUp",
+      "position": "CX Manager",
+      "url": "https://example.com",
+      "startDate": "Sep 2021",
+      "endDate": "Nov 2022",
+      "summary": "I led the CX squad and established a customer-centric culture at SumUp Invoices to drive product and marketing improvements and reduce churn by leveraging customer insights, defining and implementing CX strategies, such as first-ever customer journey maps in SumUp, customer feedback loop programs, NPS, CSAT, and CES.",
+      "highlights": ["Customer Experience, Agile Project Management, Design Thinking, Business Analysis"]
+    },
+    {
+      "name": "SumUp",
+      "position": "Regional Marketing Manager - Team Lead UK, ES, IT, DK",
+      "url": "https://example.com",
+      "startDate": "Sep 2018",
+      "endDate": "Aug 2021",
+      "summary": "I led the marketing strategy for SumUp Invoices and Accounting in four regions by driving growth through product marketing, demand generation, and customer success. I contributed to the launch of SumUp Invoices in different markets and managed a team of 8 marketing professionals I have seen grow throughout the years.",
       "highlights": ["Relativity"]
     }
   ],
