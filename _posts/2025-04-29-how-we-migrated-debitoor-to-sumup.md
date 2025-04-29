@@ -6,7 +6,7 @@ description: this is the the result of how the SEO migration
 tags: formatting charts
 categories: sample-posts
 chart:
-  plotly: true
+  echarts: true
 ---
 
 This is an example post with some [plotly](https://plotly.com/javascript/) code.
