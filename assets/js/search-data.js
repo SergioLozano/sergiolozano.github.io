@@ -467,6 +467,11 @@ ninja.data = [{
           description: "another project with an echart 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-project-11",
+          title: 'project 11',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
