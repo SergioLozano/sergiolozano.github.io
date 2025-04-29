@@ -1,12 +1,25 @@
 ---
 layout: distill
 title: How we migrated Debitoor to SumUp
-date: 2025-04-30 14:24:00
+date: 2025-04-30
 description: this is the the result of how the SEO migration
 tags: formatting charts
 categories: projects
 giscus_comments: false
 featured: true
+mermaid:
+  enabled: false
+  zoomable: false
+code_diff: false
+map: true
+chart:
+  chartjs: false
+  echarts: false
+  vega_lite: false
+tikzjax: false
+typograms: false
+authors:
+  - name: Sergio Lozano Alvarez
 ---
 
 Remember Debitoor? Many dont't but for a few years, it was a trusted name for simple invoicing and accounting across Europe, tailored for freelancers and small businesses. But the Debitoor story is part of a larger narrative involving some of the bigg names in Nordic business software, culminating in its integration into the SumUp ecosystem---a project in which I participated.
