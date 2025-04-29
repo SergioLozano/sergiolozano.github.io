@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: distill
 title: project 10
 description: another project with an echart 🎉
 img: assets/img/6.jpg
-importance: 5
+importance: 6
 category: fun
+chart:
+  echarts: true
 ---
 
 Every project has a beautiful feature showcase page.
