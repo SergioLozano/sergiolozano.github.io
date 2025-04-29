@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-image-galleries-test",
+        
+          title: "a post with image galleries - test",
+        
+        description: "this is what included image galleries could look like if",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/photo-gallery/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -81,17 +92,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries-test",
-        
-          title: "a post with image galleries - test",
-        
-        description: "this is what included image galleries could look like if",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
