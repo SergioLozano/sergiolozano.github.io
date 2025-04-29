@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with image galleries - test
+title: How we migrated Debitoor to SumUp
 date: 2025-04-29 01:59:00
 description: this is what included image galleries could look like if
 tags: formatting images
@@ -13,7 +13,12 @@ images:
   venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
+Remember Debitoor? Many dont't but for a few years, it was a trusted name for simple invoicing and accounting across Europe, tailored for freelancers and small businesses. But the Debitoor story is part of a larger narrative involving some of the bigg names in Nordic business software, culminating in its integration into the SumUp ecosystem---a project in which I participated.
+
+
+## Intro
+
+If you've been wondering what happened to Debitoor (whether you used debitoor.dk, debitoor.com, debitoor.es, debitoor.it, or any other domain), let's trace its journey.
 
 ## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
 
