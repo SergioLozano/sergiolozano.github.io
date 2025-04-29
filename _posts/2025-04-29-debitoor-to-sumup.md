@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: How we migrated Debitoor to SumUp
 date: 2025-05-29 14:24:00
 description: this is the the result of how the SEO migration
