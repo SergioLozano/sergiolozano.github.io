@@ -83,11 +83,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-a-post-with-image-galleries-test",
         
-          title: "a post with image galleries",
+          title: "a post with image galleries - test",
         
-        description: "this is what included image galleries could look like",
+        description: "this is what included image galleries could look like if",
         section: "Posts",
         handler: () => {
           
