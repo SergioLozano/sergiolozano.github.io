@@ -11,7 +11,8 @@ images:
   photoswipe: true
   spotlight: true
   venobox: true
-echarts: true
+chart:
+  echarts: true
 ---
 
 Remember Debitoor? Many dont't but for a few years, it was a trusted name for simple invoicing and accounting across Europe, tailored for freelancers and small businesses. But the Debitoor story is part of a larger narrative involving some of the bigg names in Nordic business software, culminating in its integration into the SumUp ecosystem---a project in which I participated.
