@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a post with image galleries - test
-date: 2024-12-04 01:59:00
+date: 2025-04-29 01:59:00
 description: this is what included image galleries could look like if
 tags: formatting images
 categories: sample-posts
