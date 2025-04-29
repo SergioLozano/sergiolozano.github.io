@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with image galleries
+title: a post with image galleries - test
 date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+description: this is what included image galleries could look like if
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
