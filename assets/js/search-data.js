@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-how-we-migrated-debitoor-to-sumup",
-        
-          title: "How we migrated Debitoor to SumUp",
-        
-        description: "this is what included image galleries could look like if",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/debitoor-intro/";
-          
-        },
-      },{id: "post-a-copy-of-the-post-with-plotly-js",
+            },{id: "post-a-copy-of-the-post-with-plotly-js",
         
           title: "a copy of the post with plotly.js",
         
@@ -92,6 +81,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly-copy/";
+          
+        },
+      },{id: "post-how-we-migrated-debitoor-to-sumup",
+        
+          title: "How we migrated Debitoor to SumUp",
+        
+        description: "this is what included image galleries could look like if",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/debitoor-intro/";
           
         },
       },{id: "post-a-post-with-plotly-js",
