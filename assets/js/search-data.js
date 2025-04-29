@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries-test",
+            },{id: "post-how-we-migrated-debitoor-to-sumup",
         
-          title: "a post with image galleries - test",
+          title: "How we migrated Debitoor to SumUp",
         
         description: "this is what included image galleries could look like if",
         section: "Posts",
