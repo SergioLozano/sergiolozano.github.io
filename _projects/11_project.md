@@ -247,7 +247,7 @@ The result was a huge increase in number of signups.
       "smooth": true,
       "data": [0, 0, 0, 0, 0, 0, 27, 42, 51, 28, 35, 14, 15, 12, 13, 11, 17],
       "itemStyle": {
-        "color": "#91CC75"
+        "color": "#6E338A"
       },
       "lineStyle": {
         "width": 3
@@ -275,7 +275,7 @@ The result was a huge increase in number of signups.
       "smooth": true,
       "data": [0, 0, 0, 0, 25, 87, 144, 163, 157, 206, 201, 150, 154, 128, 142, 119, 145],
       "itemStyle": {
-        "color": "#91CC75"
+        "color": "#AB8F39"
       },
       "lineStyle": {
         "width": 3
