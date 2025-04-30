@@ -159,7 +159,7 @@ The result was a huge increase in number of signups.
     }
   },
   "legend": {
-    "data": ["sumup.co.uk/invoices", "sumup.es/facturas"],
+    "data": ["sumup.co.uk/invoices", "sumup.es/facturas", "sumup.dk/fakturaer", "sumup.it/fatture"],
     "top": "10%"
   },
   "xAxis": {
@@ -262,6 +262,34 @@ The result was a huge increase in number of signups.
           "colorStops": [
             { "offset": 0, "color": "rgba(110, 51, 138, 0.5)" },
             { "offset": 1, "color": "rgba(110, 51, 138, 0)" }
+          ]
+        }
+      },
+      "emphasis": {
+        "focus": "series"
+      }
+    },
+     {
+      "name": "sumup.it/fatture",
+      "type": "line",
+      "smooth": true,
+      "data": [0, 0, 0, 0, 25, 87, 144, 163, 157, 206, 201, 150, 154, 128, 142, 119, 145],
+      "itemStyle": {
+        "color": "#91CC75"
+      },
+      "lineStyle": {
+        "width": 3
+      },
+      "areaStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0,
+          "y": 0,
+          "x2": 0,
+          "y2": 1,
+          "colorStops": [
+            { "offset": 0, "color": "rgba(171, 143, 57, 0.5)" },
+            { "offset": 1, "color": "rgba(171, 143, 57, 0)" }
           ]
         }
       },
