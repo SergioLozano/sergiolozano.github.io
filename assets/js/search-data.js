@@ -462,13 +462,13 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-10",
-          title: 'project 10',
+          section: "News",},{id: "projects-pipeline-acceleration-for-logpoint",
+          title: 'Pipeline acceleration for Logpoint',
           description: "another project with an echart 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-sumup-invoices-organic-lead-generation",
-          title: 'SumUp Invoices organic lead generation',
+            },},{id: "projects-organic-lead-generation-for-sumup-invoices",
+          title: 'Organic lead generation for SumUp Invoices',
           description: "Learn how I helped achieve hundreds of signups in SumUp Invoices by migrating Debitoor&#39;s content.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
