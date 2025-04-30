@@ -467,9 +467,9 @@ ninja.data = [{
           description: "another project with an echart 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-project-11",
-          title: 'project 11',
-          description: "with background image",
+            },},{id: "projects-sumup-invoices-organic-lead-generation",
+          title: 'SumUp Invoices organic lead generation',
+          description: "Learn how I helped achieve hundreds of signups in SumUp Invoices by migrating Debitoor&#39;s content.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-project-1",
