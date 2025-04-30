@@ -462,17 +462,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-pipeline-acceleration-for-logpoint",
-          title: 'Pipeline acceleration for Logpoint',
-          description: "another project with an echart 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-organic-lead-generation-for-sumup-invoices",
-          title: 'Organic lead generation for SumUp Invoices',
-          description: "Learn how I helped achieve hundreds of signups in SumUp Invoices by migrating Debitoor&#39;s content.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -517,6 +507,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/customer-journey-map-for-sumup-invoices/";
+            },},{id: "projects-organic-lead-generation-for-sumup-invoices",
+          title: 'Organic lead generation for SumUp Invoices',
+          description: "Learn how I helped achieve hundreds of signups in SumUp Invoices by migrating Debitoor&#39;s content.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/organic-lead-generation-for-sumup-invoices/";
+            },},{id: "projects-pipeline-acceleration-for-logpoint",
+          title: 'Pipeline acceleration for Logpoint',
+          description: "another project with an echart 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pipeline-acceleration-for-logpoint/";
             },},{
         id: 'social-email',
         title: 'email',
