@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Customer journey map for SumUp Invoices
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/customer-journey-map.svg
 importance: 1
 category: work
 related_publications: true
