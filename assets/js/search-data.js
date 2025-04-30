@@ -507,8 +507,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-customer-journey-map-for-sumup-invoices",
+          title: 'Customer journey map for SumUp Invoices',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/customer-journey-map-for-sumup-invoices/";
