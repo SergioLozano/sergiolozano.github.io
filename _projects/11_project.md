@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 11
-description: with background image
-img: assets/img/12.jpg
+title: SumUp Invoices organic lead generation
+description: Learn how I helped achieve hundreds of signups in SumUp Invoices by migrating Debitoor's content.
+img: assets/img/line-chart.jpg
 importance: 1
 category: work
 related_publications: true
