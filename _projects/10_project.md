@@ -1,10 +1,10 @@
 ---
-layout: distill
-title: project 10
+layout: page
+title: Pipeline acceleration for Logpoint
 description: another project with an echart 🎉
-img: assets/img/6.jpg
-importance: 6
-category: fun
+img: assets/img/pipeline-acceleration.svg
+importance: 1
+category: work
 chart:
   echarts: true
 ---

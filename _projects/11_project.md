@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SumUp Invoices organic lead generation
+title: Organic lead generation for SumUp Invoices
 description: Learn how I helped achieve hundreds of signups in SumUp Invoices by migrating Debitoor's content.
 img: assets/img/line-chart.jpg
 importance: 1
