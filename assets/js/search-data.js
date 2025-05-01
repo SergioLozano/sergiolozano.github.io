@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly-copy/";
+            window.location.href = "/blog/2025/removing-blockers-linkedin-post/";
           
         },
       },{id: "post-how-we-migrated-debitoor-to-sumup",
