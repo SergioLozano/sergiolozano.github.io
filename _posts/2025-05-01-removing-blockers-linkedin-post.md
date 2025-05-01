@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Removing blockers using your own skills
-date: 2025-05-01 09:24:00
+date: 2025-04-30 09:24:00
 description: This is what the LinkedIn post should look like
 tags: formatting charts
 categories: sample-posts
