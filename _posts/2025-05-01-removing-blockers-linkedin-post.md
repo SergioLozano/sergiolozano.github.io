@@ -1,13 +1,15 @@
 ---
 layout: post
-title: a copy of the post with plotly.js
-date: 2025-04-29 14:24:00
-description: this is what included plotly.js code could look like
+title: Removing blockers using your own skills
+date: 2025-05-01 09:24:00
+description: This is what the LinkedIn post should look like
 tags: formatting charts
 categories: sample-posts
 chart:
   plotly: true
 ---
+
+On April 28th, a massive power outage in Spain and Portugal reminded me just how fragile our dependencies are. No access to online tools, platforms, TV, or phones, **but the radio was still on**. We rely heavily on complex systems to do things we could often do ourselves.
 
 This is an example post with some [plotly](https://plotly.com/javascript/) code.
 
