@@ -3,12 +3,12 @@
     "name": "Sergio Lozano Alvarez",
     "label": "Product Marketing Manager",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "",
+    "phone": "",
+    "url": "",
     "summary": "Product Marketing Manager with 10+ years of experience in marketing and CX, skilled in product launches and go-to-market strategies",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "",
       "postalCode": "2400",
       "city": "Copenhagen",
       "countryCode": "DK",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Sergio Lozano Alvarez",
+        "url": "https://www.linkedin.com/in/sergio-lozano-alvarez"
       }
     ]
   },
@@ -71,14 +71,13 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Fundación Salvador Soler",
+      "position": "Brand Design and Digital Content",
+      "url": "https://unmundosalvadorsoler.org/",
+      "startDate": "2018 Dec",
+      "endDate": "2021 Aug",
+      "summary": "For over two years, I contributed to the brand design of the NGO Fundación Salvador Soler. I audited their website and brand content and created and brand guideliness and recommendations. I also designed logos for the cooperation forums, produced and designed their annual reports, and created designs for banners, posters, and merchandising",
+      "highlights": [""]
     }
   ],
   "education": [
