@@ -9,7 +9,13 @@ chart:
   plotly: true
 ---
 
-On April 28th, a massive power outage in Spain and Portugal reminded me just how fragile our dependencies are. No access to online tools, platforms, TV, or phones, **but the radio was still on**. We rely heavily on complex systems to do things we could often do ourselves.
+We rely heavily on complex systems to do things we could often do ourselves.
+
+On April 28th, a massive power outage in Spain and Portugal reminded me just how fragile our dependencies are. No access to online tools, platforms, TV, or phones, **but the radio was still on**.
+
+So, with this image of people on the streets swarming around a radio to listen to stay informed in my mind, I decided to go back to a time when I was creating content differently: No CMS, just coding it in a mix of markdown and HTML and committing pull requests to GitHub.
+
+You don't need a CMS or a dev team. Go to GitHub, find a template that fits your needs, tweak it to your liking, and you’ve got something that’s *yours*. You own it, you understand it.
 
 This is an example post with some [plotly](https://plotly.com/javascript/) code.
 
