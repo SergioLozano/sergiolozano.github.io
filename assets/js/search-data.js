@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-how-we-migrated-debitoor-to-sumup",
+            },{id: "post-removing-blockers-using-your-own-skills",
+        
+          title: "Removing blockers using your own skills",
+        
+        description: "This is what the LinkedIn post should look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/removing-blockers-linkedin-post/";
+          
+        },
+      },{id: "post-how-we-migrated-debitoor-to-sumup",
         
           title: "How we migrated Debitoor to SumUp",
         
