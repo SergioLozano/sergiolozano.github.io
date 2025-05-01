@@ -9,6 +9,12 @@ chart:
   echarts: true
 ---
 
+Remember Debitoor? Many dont't but for a few years, it was a trusted name for simple invoicing and accounting across Europe, tailored for freelancers and small businesses. But the Debitoor story is part of a larger narrative involving some of the bigg names in Nordic business software, culminating in its integration into the SumUp ecosystem---a project in which I participated.
+
+##
+
+If you've been wondering what happened to Debitoor (whether you used debitoor.dk, debitoor.com, debitoor.es, debitoor.it, or any other domain), let's trace its journey.
+
 This is an example post with some [plotly](https://plotly.com/javascript/) code.
 
 
