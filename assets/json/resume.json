@@ -178,6 +178,14 @@
       ]
     },
     {
+      "name": "Market & Customer Insights",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Proven ability to analyze customer and market insights through qualitative and quantitative research to identify needs and trends, using these insights to refine positioning, develop value propositions, and craft messaging targeting customers at the right stage of the sales funnel to drive conversion and commercial success."
+      ]
+    },
+    {
       "name": "Strategic Thinking",
       "level": "",
       "icon": "fa-solid fa-hashtag",
@@ -191,14 +199,6 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Demonstrated success as a direct manager of eight marketing professionals across multiple locations, providing guidance, fostering growth, and supporting their development. Applied motivational leadership in product marketing and customer experience to align cross-functional stakeholders and drive unified goals."
-      ]
-    },
-    {
-      "name": "Market and Customer Insights",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Proven ability to analyze customer and market insights through qualitative and quantitative research to identify needs and trends, using these insights to refine positioning, develop value propositions, and craft messaging targeting customers at the right stage of the sales funnel to drive conversion and commercial success."
       ]
     }
   ],
