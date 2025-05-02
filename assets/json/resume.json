@@ -154,7 +154,7 @@
   ],
   "skills": [
     {
-      "name": "Product marketing and GTM strategy",
+      "name": "Product Marketing & GTM strategy",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "Project management",
+      "name": "Project Management",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -174,7 +174,7 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "10+ years of experience in B2B marketing in tech industries, such as fintech and cybersecurity. Hands-on experience in different B2B marketing disciplines, including product-led growth marketing, commercial acceleration, lead generation, account-based marketing, and omnichannel marketing; using a wide array of marketing automation tools such as Salesforce, Mailchimp, and Intercom."
+        "10+ years of experience in B2B marketing in tech industries, such as fintech and cybersecurity. Direct experience in different B2B marketing disciplines, including product-led growth marketing, commercial acceleration, lead generation, account-based marketing, and omnichannel marketing; using a wide array of marketing automation tools such as Salesforce, Mailchimp, and Intercom."
       ]
     },
     {
@@ -182,7 +182,23 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Record of success in developing and executing strategic marketing plans with data-driven approaches. By collecting and using quantitative and qualitative data, I map the process and establish a recommended course of action, but I remain ready to adapt the strategy with new insights using tools such as Mixpanel, Hotjar and Salesforce."
+        "Proven track record in developing and executing data-driven marketing strategies. Skilled at using both quantitative and qualitative data to map processes and recommend actionable plans, while remaining flexible and responsive to new insights. Proficient with tools such as Mixpanel, Hotjar, and Salesforce."
+      ]
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Demonstrated success as a direct manager of eight marketing professionals across multiple locations, providing guidance, fostering growth, and supporting their development. Applied motivational leadership in product marketing and customer experience to align cross-functional stakeholders and drive unified goals."
+      ]
+    },
+    {
+      "name": "Market and Customer Insights",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Proven ability to analyze customer and market insights through qualitative and quantitative research to identify needs and trends, using these insights to refine positioning, develop value propositions, and craft messaging targeting customers at the right stage of the sales funnel to drive conversion and commercial success."
       ]
     }
   ],
