@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Sergio! 👋 I'm a product marketeer based in Copenhagen who enjoys breaking down complex products into stories to craft messages focusing on real benefits. 
+Hi, I'm Sergio! 👋 I'm a product marketer based in Copenhagen who enjoys breaking down complex products into stories to craft messages focusing on real benefits. 
 
 With over 10 years of experience in B2B marketing and customer experience in the tech industry, I leverage data to position products and storytelling to match customer needs 🚀 An analytical and creative mindset with a commitment to high standards underpin my strategic approach.
 
