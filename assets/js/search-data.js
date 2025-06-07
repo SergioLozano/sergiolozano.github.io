@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-removing-blockers-using-your-own-skills",
+            },{id: "post-how-we-migrated-debitoor-to-sumup",
+        
+          title: "How we migrated Debitoor to SumUp",
+        
+        description: "this is the the result of how the SEO migration",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/debitoor-to-sumup/";
+          
+        },
+      },{id: "post-removing-blockers-using-your-own-skills",
         
           title: "Removing blockers using your own skills",
         
