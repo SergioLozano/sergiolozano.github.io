@@ -5,7 +5,7 @@ description: Learn how I helped achieve thousands of signups in SumUp Invoices b
 img: assets/img/line-chart.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 chart:
   echarts: true
 ---
