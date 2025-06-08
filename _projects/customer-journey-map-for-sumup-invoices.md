@@ -45,9 +45,9 @@ Together with a Customer Experience Specialist, I evaluated each touchpoint agai
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sumup-invoices-customer-journey-map-detail-1.png" title="customer journey map detail II" class="img-fluid rounded z-depth-1" %}
     </div>
-<div class="caption">
-    Observe the how each touchpoint was linked to a screenshot or visual representation for easier understanding of the "job-to-be-done".
 </div>
+<div class="caption">
+    Observe how each touchpoint was linked to a screenshot or visual representation for easier understanding of the "job-to-be-done".
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
