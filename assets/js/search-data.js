@@ -492,7 +492,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-customer-journey-map-for-sumup-invoices",
           title: 'Customer journey map for SumUp Invoices',
-          description: "with background image",
+          description: "Discover how I created SumUp Invoices customer journey map and the repercussions it had for the organisation and other departments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/customer-journey-map-for-sumup-invoices/";
             },},{id: "projects-organic-lead-generation-for-sumup-invoices",
