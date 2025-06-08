@@ -497,7 +497,7 @@ ninja.data = [{
               window.location.href = "/projects/customer-journey-map-for-sumup-invoices/";
             },},{id: "projects-organic-lead-generation-for-sumup-invoices",
           title: 'Organic lead generation for SumUp Invoices',
-          description: "Learn how I helped achieve thousands of signups in SumUp Invoices by migrating Debitoor&#39;s content.",
+          description: "Learn how I helped achieve thousands of signups in SumUp Invoices by migrating Debitoor&#39;s content. From zero to hundreds of signups a month in four markets.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/organic-lead-generation-for-sumup-invoices/";
             },},{id: "projects-pipeline-acceleration-for-logpoint",
