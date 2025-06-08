@@ -1,25 +1,14 @@
 ---
 layout: page
 title: Customer journey map for SumUp Invoices
-description: with background image
+description: Discover how I created SumUp Invoices customer journey map and the repercussions it had for the organisation and other departments.
 img: assets/img/customer-journey-map.svg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In my last year at SumUp, I was brought into the first-ever Customer Experience department. It was an incredible opportunity to shape how we understood and served our customers from the ground up. A cornerstone of this mission was meticulously mapping the customer journey. Only by truly understanding our customers' paths – their needs, their pain points, and their moments of delight – could we effectively improve our product, refine our marketing, and streamline our operations to deliver exceptional experiences.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +33,9 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## TLDR;
+
+I spearheaded the creation of the first comprehensive customer journey maps at SumUp for its Invoices product, enabling a deeper understanding of customer pain points and opportunities, leading to improved customer experience, product development, and ultimately, business growth.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -60,22 +49,20 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Context
 
-{% raw %}
+At SumUp, as a CX Manager, I was tasked with establishing the CX function, starting with SumUp Invoices. This involved embedding a customer-centric approach within the organization and addressing the diverse needs of different SumUp Invoices personas (e.g., existing SumUp card reader users vs. Invoices-first merchants). The core challenge was to gain a holistic understanding of the customer experience across all touchpoints, from initial awareness to retention and beyond, to identify areas for improvement and drive product-led growth.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Approach
 
-{% endraw %}
+I initiated and led the development of comprehensive customer journey maps for SumUp Invoices. Given the varied customer personas, we created multiple versions of the journey map, each tailored to specific user types and their distinct touchpoints. The mapping process involved a deep dive into every phase of the marketing funnel: awareness, consideration, conversion, onboarding, activation, engagement, retention, winback, upsell/renewal, loyalty, and advocacy. 
+
+For each touchpoint, we analyzed the customer's "job-to-be-done," their experience level, and visual references. This involved extensive collaboration with key stakeholders across Product, Marketing Automation, Marketing Acquisition, and Sales. We evaluated each touchpoint against customer expectations and effectiveness, using data from tracking and analytics tools. Identified pain points and opportunities were then logged as issues in Jira, allowing us to track their status from proposed solution to implementation and follow-up, or backlogging due to resource constraints.
+
+## Output
+
+The outcome was the first-ever visual representation of SumUp customer journeys, spanning the entire lifecycle from lead to lost customer. This comprehensive deliverable included multiple iterations of the customer journey map, detailing touchpoints, experience levels, proposed changes, relevant stakeholders, and issue tracking statuses for each identified pain point.
+
+## Outcomes
+
+This project delivered a profound understanding of the customer experience, leading to significant improvements across the board. It informed the personalization of user experiences, such as tailored onboarding flows and the removal of friction points. It also directly influenced product improvement and prioritization during quarterly product planning meetings. The success of this initiative was evident in the widespread adoption of customer journey mapping within SumUp, influencing the creation of similar maps for SumUp's core product and SumUp Online Store. While direct metric attribution is complex for a foundational CX initiative of this nature, the consistent positive feedback from product and marketing teams on the clarity and actionable insights provided by the maps underscores its impact on strategic decision-making and ultimately, customer loyalty and business growth.
