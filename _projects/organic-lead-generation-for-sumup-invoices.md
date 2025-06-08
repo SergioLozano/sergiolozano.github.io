@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organic lead generation for SumUp Invoices
-description: Learn how I helped achieve thousands of signups in SumUp Invoices by migrating Debitoor's content.
+description: Learn how I helped achieve thousands of signups in SumUp Invoices by migrating Debitoor's content. From zero to hundreds of signups a month in four markets.
 img: assets/img/line-chart.jpg
 importance: 1
 category: work
@@ -14,7 +14,8 @@ Remember Debitoor? Many dont't but for a few years, it was a trusted name for si
 
 ## TL;DR
 
-Learn how I contributed to a strategic content migration from Debitoor former domains to SumUp Invoices microsites. part of strategic content migration. This wasn't just about moving content; it was a deliberate **lead-generation tactic** designed to foster growth for SumUp Invoices, successfully scaling sign-ups through these channels from effectively zero at launch to hundreds per month. See the results below:
+Learn how I drove a strategic content migration from Debitoor former domains to SumUp Invoices microsites. This wasn't just about moving content; it was a deliberate **lead-generation tactic** designed to foster growth for SumUp Invoices.
+By migrating Debitoor's content, updating to match SumUp's product funnel and redirect the old to the new, me and my team successfully scaled sign-ups through these channels **from effectively zero at launch to hundreds per month**. See the results below:
 
 ```echarts
 {
@@ -184,141 +185,10 @@ Originating from Denmark's e-conomic around 2012, Debitoor established as its ow
 After SumUp acquired Debitoor and launched SumUp Invoices using Debitoor’s technology, it became clear that a sales-led approach wouldn’t suit the invoicing product. We needed to shift to a product-led growth strategy—and that meant making the most of Debitoor’s high-quality, SEO-optimized content. I led the initiative to migrate and repurpose this content across four markets: the UK, Denmark, Spain, and Italy. The goal was to transfer organic traffic and search authority to new SumUp Invoices microsites, building a scalable acquisition engine from scratch.
 
 ## Approach
-We ran an agile, phased migration to minimize risk and maximize learning. I started by auditing all existing Debitoor content—categorizing it by market relevance, product fit, and current SEO performance. From there, we curated what to keep, merge, or rewrite. My teams handled content adaptation for each local market, updating terminology (e.g., switching “users” to SumUp’s preferred term “merchants”), CTAs, and internal linking to fit our new product messaging. We migrated everything into SumUp’s CMS, ensured correct redirects to preserve SEO value, and implemented custom tracking to tie content performance to signups.
+We ran an agile, phased migration to minimize risk and maximize learning. I started by auditing all existing Debitoor content—categorizing it by market relevance, product fit, and current SEO performance. From there, we curated what to keep, merge, or rewrite. Me and my teams handled content adaptation for each local market: Updating terminology (e.g., switching “users” to SumUp’s preferred term “merchants”), drawing paralellisms with SumUp's card reader busines, making correction mentions to features that would be differnt in SumUp Invoices, changing CTAs, and adapting internal linking to fit our new product messaging. We migrated everything into SumUp’s CMS, ensured correct redirects to preserve SEO value, and implemented custom tracking to tie content performance to signups.
 
 ## Output
 We successfully moved hundreds of high-performing pages—including blogs, help articles, and a content-rich accounting dictionary—onto SumUp’s domain. Each was localized, optimized, and integrated with our product funnel to act as a clear path to conversion.
 
 ## Outcomes
-In just a few months post-migration, we scaled SumUp Invoices from zero to over 6,000 attributed signups across the four markets I led. The project not only drove sustained organic growth but also laid the foundation for SEO-led acquisition at SumUp.
-
-## Intro
-
-If you've been wondering what happened to Debitoor (whether you used debitoor.dk, debitoor.com, debitoor.es, debitoor.it, or any other domain), let's trace its journey. 
-
-## Simple Graph
-
-```echarts
-{
-  "title": {
-    "text": "Monthly Sales Comparison",
-    "left": "center"
-  },
-  "tooltip": {
-    "trigger": "axis",
-    "backgroundColor": "rgba(50, 50, 50, 0.7)",
-    "borderColor": "#777",
-    "borderWidth": 1,
-    "textStyle": {
-      "color": "#fff"
-    }
-  },
-  "legend": {
-    "data": ["Product A", "Product B"],
-    "top": "10%"
-  },
-  "xAxis": {
-    "type": "category",
-    "data": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-    "axisLine": {
-      "lineStyle": {
-        "color": "#888"
-      }
-    }
-  },
-  "yAxis": {
-    "type": "value",
-    "axisLine": {
-      "lineStyle": {
-        "color": "#888"
-      }
-    },
-    "splitLine": {
-      "lineStyle": {
-        "type": "dashed"
-      }
-    }
-  },
-  "series": [
-    {
-      "name": "Product A",
-      "type": "line",
-      "smooth": true,
-      "data": [820, 932, 901, 934, 1290, 1330, 1320, 1400, 1450, 1500, 1600, 1650],
-      "itemStyle": {
-        "color": "#5470C6"
-      },
-      "lineStyle": {
-        "width": 3
-      },
-      "areaStyle": {
-        "color": {
-          "type": "linear",
-          "x": 0,
-          "y": 0,
-          "x2": 0,
-          "y2": 1,
-          "colorStops": [
-            { "offset": 0, "color": "rgba(84, 112, 198, 0.5)" },
-            { "offset": 1, "color": "rgba(84, 112, 198, 0)" }
-          ]
-        }
-      },
-      "emphasis": {
-        "focus": "series"
-      }
-    },
-    {
-      "name": "Product B",
-      "type": "line",
-      "smooth": true,
-      "data": [620, 732, 701, 734, 1090, 1130, 1120, 1200, 1250, 1300, 1400, 1450],
-      "itemStyle": {
-        "color": "#91CC75"
-      },
-      "lineStyle": {
-        "width": 3
-      },
-      "areaStyle": {
-        "color": {
-          "type": "linear",
-          "x": 0,
-          "y": 0,
-          "x2": 0,
-          "y2": 1,
-          "colorStops": [
-            { "offset": 0, "color": "rgba(145, 204, 117, 0.5)" },
-            { "offset": 1, "color": "rgba(145, 204, 117, 0)" }
-          ]
-        }
-      },
-      "emphasis": {
-        "focus": "series"
-      }
-    }
-  ]
-}
-```
-
-From June 2020, we started working on gradually migrating Debitoor to SumUp Invoices. While I was working together with Product and Engineering on the user migration, I led the marketing team towards the content mmigration.
-
-**But why migrate the content?** Most of Debitoor's success lies on organic traffic, achieved through thought leadership, and accounting dictionary, and a blog designed to not only capture traffic but convert it into qualified leads.
-
-Below, you can see 2029 and 2020 Debitoor's organic traffic in those domains where I manage the marketing team: debitoor.com, debitoor.es, debitoor.it, and debitoor.dk. 
-
-Analytics screenshot. 
-
-The content migration was iterated and planned in stages, and it went as follows:
-
-Having in mind the agile methodology, we decided that we will perform it by batches, allowing us to accelerate the migration, but most importantly to ensure it was safe and we could learn from each iteration.
-
-We first audited all the content in the Debitoor's domains, categorized it and decided what we could migrate based on market-fit, product-fit, what could be merged, and what was still relevant.
-
-Once audited, we then proceed to copy the content and migrate to SumUp CMS. From there, we would update links,change images, and rewrite the content where needed,updating call to actions, feature names, and other naming conventions (for example, SumUp uses the word merchant to talk about its customers).
-
-With the content ready, we would deploy and create redirects from Debitoor to SumUp to avoid duplicates and 404 errors. Finally, we implemented tracking for those signups specific to SumUp Invoices.
-
-
-The result was a huge increase in number of signups.
-
-Below, you can see how Debitoor's traffic decline as SumUp Invoices grow throughout 2021.
+In just a few months post-migration, it started giving results. After a year, we scaled SumUp Invoices from zero to over 6,000 content-attributed signups across the four markets I led. The project not only drove sustained organic growth but also laid the foundation for SEO-led acquisition at SumUp.
