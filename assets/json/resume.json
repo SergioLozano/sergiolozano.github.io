@@ -178,23 +178,24 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Literature",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
+      "keywords": []
+    },
     {
-      "name": "Upon request",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "name": "Graphic Design",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Creative Writing",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Sociology",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
     }
   ]
 }
