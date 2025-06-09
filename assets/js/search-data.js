@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-resources",
+          title: "resources",
+          description: "Here, you can find resources for product marketing, sales enablement, and CX.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
+        },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
