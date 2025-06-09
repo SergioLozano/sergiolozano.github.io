@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description: Here, you can find resources for product marketing, sales enablement, and CX.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/resources.md -->
