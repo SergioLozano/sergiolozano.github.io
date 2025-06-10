@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Launch of Logpoint's new Pricing and Packaging
+title: GTM Launch of Logpoint's pricing and packaging
 description: Discover how I drove the launch of Logpoint's new pricing and packaging, from defining the positioning and messaging to executing the campaigns for its launch.
 img: assets/img/new-pricing-repackaging-blog.png
 importance: 1
@@ -18,7 +18,7 @@ In July 2024, I led the go-to-market launch of Logpoint’s new modular pricing 
 
 ## Context
 
-The existing all-in-one pricing model made it difficult for customers to scale or tailor the product to their needs. As a result, it hindered adoption among smaller security teams and made value communication complex for partners. A modular architecture—centered on a core SIEM and optional add-ons like Automation (SOAR), Case Management, and Behavior Analytics—was needed to meet growing demand for flexibility, support clearer value articulation, and create pricing predictability across segments.
+The existing all-in-one pricing model made it difficult for customers to scale or tailor the product to their needs. As a result, it hindered adoption among smaller security teams and made value communication complex for partners. A modular architecture, centered on a core SIEM and optional add-ons like Automation (SOAR), Case Management, and Behavior Analytics, was needed to meet growing demand for flexibility, support clearer value articulation, and create pricing predictability across segments.
 
 ## Approach
 

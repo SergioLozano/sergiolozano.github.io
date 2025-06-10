@@ -9,7 +9,7 @@ nav_order: 3
 
 This space is dedicated to sharing practical, templates, frameworks, kits and other resources developed through real-world experience in product marketing, sales enablement, and customer experience to support your day-to-day work. Each item here has been tested in the field and intended to solve problems, improve collaboration, and drive better outcomes across teams. 
 
-Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources are designed to save you time and help you move with clarity. Go ahead and borrow them and feel free to explore, adapt, and make them your own.
+Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources will save you time and structure your work. Go ahead and borrow them and feel free to explore, adapt, and make them your own.
 
 ---
 
