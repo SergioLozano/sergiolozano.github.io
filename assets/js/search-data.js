@@ -481,6 +481,11 @@ ninja.data = [{
           description: "Discover how I created SumUp Invoices customer journey map and the repercussions it had for the organisation and other departments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/customer-journey-map-for-sumup-invoices/";
+            },},{id: "projects-launch-of-logpoint-39-s-new-pricing-and-packaging",
+          title: 'Launch of Logpoint&amp;#39;s new Pricing and Packaging',
+          description: "Discover how I drove the launch of Logpoint&#39;s new pricing and packaging, from defining the positioning and messaging to executing the campaigns for its launch.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/launch-of-new-pricing-and-packaging-for-logpoint/";
             },},{id: "projects-organic-lead-generation-for-sumup-invoices",
           title: 'Organic lead generation for SumUp Invoices',
           description: "Learn how I helped achieve thousands of signups in SumUp Invoices by migrating Debitoor&#39;s content. From zero to hundreds of signups a month in four markets.",
