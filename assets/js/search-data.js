@@ -481,8 +481,8 @@ ninja.data = [{
           description: "Discover how I created SumUp Invoices customer journey map and the repercussions it had for the organisation and other departments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/customer-journey-map-for-sumup-invoices/";
-            },},{id: "projects-launch-of-logpoint-39-s-new-pricing-and-packaging",
-          title: 'Launch of Logpoint&amp;#39;s new Pricing and Packaging',
+            },},{id: "projects-gtm-launch-of-logpoint-39-s-pricing-and-packaging",
+          title: 'GTM Launch of Logpoint&amp;#39;s pricing and packaging',
           description: "Discover how I drove the launch of Logpoint&#39;s new pricing and packaging, from defining the positioning and messaging to executing the campaigns for its launch.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/launch-of-new-pricing-and-packaging-for-logpoint/";
