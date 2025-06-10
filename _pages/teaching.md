@@ -17,7 +17,7 @@ Each item here has been tested in the field—created to solve problems, improve
 
 Go ahead and borrow them and feel free to explore, adapt, and make them your own.
 
-## Resources for Sales Enablement
+## Resources for Sales Enablement<br>
 
 
 <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
@@ -33,7 +33,7 @@ Go ahead and borrow them and feel free to explore, adapt, and make them your own
 
 ---
 
-## Resources for Customer Experience
+## Resources for Customer Experience<br>
 
 
 <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
