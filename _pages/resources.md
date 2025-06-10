@@ -7,15 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-This space is dedicated to sharing practical tools, templates, and other resources developed through real-world experience in product marketing, sales enablement, and customer experience. Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources are designed to save you time and help you move with clarity.
+This space is dedicated to sharing practical, templates, frameworks, kits and other resources developed through real-world experience in product marketing, sales enablement, and customer experience to support your day-to-day work. Each item here has been tested in the field and intended to solve problems, improve collaboration, and drive better outcomes across teams. 
 
-Each item here has been tested in the field—created to solve problems, improve collaboration, and drive better outcomes across teams. You’ll find content frameworks, enablement kits, positioning guides, and other materials that support the day-to-day rhythm of building, marketing, and selling great products.
-
-Go ahead and borrow them and feel free to explore, adapt, and make them your own.
+Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources are designed to save you time and help you move with clarity. Go ahead and borrow them and feel free to explore, adapt, and make them your own.
 
 ---
 
-<div style="margin-bottom: 1.5rem;">
+<div style="margin-bottom: 2.5rem;">
   <h2>Resources for Sales Enablement</h2>
 </div>
 
@@ -32,7 +30,7 @@ Go ahead and borrow them and feel free to explore, adapt, and make them your own
 
 ---
 
-<div style="margin-bottom: 1.5rem;">
+<div style="margin-bottom: 2.5rem;">
   <h2>Resources for Sales Customer Experience</h2>
 </div>
 
