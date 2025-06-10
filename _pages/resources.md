@@ -15,8 +15,9 @@ Go ahead and borrow them and feel free to explore, adapt, and make them your own
 
 ---
 
-## Resources for Sales Enablement<br>
-
+<div style="margin-bottom: 1.5rem;">
+  <h2>Resources for Sales Enablement</h2>
+</div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/assets/img/thumbnail-one-pager-sales-enablement.jpg" alt="Icon in black and white of a file" style="width: 120px; height: auto; border: 1px solid #ccc;" />
@@ -31,8 +32,9 @@ Go ahead and borrow them and feel free to explore, adapt, and make them your own
 
 ---
 
-## Resources for Customer Experience<br>
-
+<div style="margin-bottom: 1.5rem;">
+  <h2>Resources for Sales Customer Experience</h2>
+</div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/assets/img/thumbnail-customer-journey-map-carrousel.jpg" alt="Thumbnail of a customer journey map made in Figma" style="width: 120px; height: auto; border: 1px solid #ccc;" />
