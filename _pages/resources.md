@@ -7,9 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-This space is dedicated to sharing practical, templates, frameworks, kits and other resources developed through real-world experience in product marketing, sales enablement, and customer experience to support your day-to-day work. Each item here has been tested in the field and intended to solve problems, improve collaboration, and drive better outcomes across teams. 
-
-Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources will save you time and structure your work. Go ahead and borrow them and feel free to explore, adapt, and make them your own.
+This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is field-tested to help you solve problems, align teams, and get better results—faster. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.
 
 ---
 <!-- Filter Buttons -->
@@ -22,7 +20,7 @@ Whether you're launching a new feature, aligning go-to-market teams, or refining
     <button class="filter-btn" onclick="filterResources('customer-experience')">Customer Experience</button>
   </div>
 </div>
----
+
 <!-- RESOURCE SECTIONS -->
 
 <!-- PRODUCT MARKETING -->
@@ -52,10 +50,11 @@ Whether you're launching a new feature, aligning go-to-market teams, or refining
   </div>
 </div>
 
----
+
 
 <!-- SALES ENABLEMENT -->
 <div class="resource-group sales-enablement">
+---
   <h2>Resources for Sales Enablement</h2>
 
   <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
@@ -80,10 +79,11 @@ Whether you're launching a new feature, aligning go-to-market teams, or refining
   </div>
 </div>
 
----
+
 
 <!-- CUSTOMER EXPERIENCE -->
 <div class="resource-group customer-experience">
+---
   <h2>Resources for Customer Experience</h2>
 
   <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
@@ -114,13 +114,13 @@ function filterResources(category) {
 <!-- Optional Styling for Buttons filter -->
 <style>
 .filter-btn {
-  padding: 0.4rem 0.8rem;
+  padding: 0.3rem 0.6rem;
   margin-right: 0.5rem;
   background-color: #eee;
   border: 1px solid #ccc;
   border-radius: 6px;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 .filter-btn:hover {
   background-color: #ddd;
