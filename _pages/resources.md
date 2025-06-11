@@ -110,7 +110,8 @@ function filterResources(category) {
 }
 </script>
 
-<!-- Optional Styling for Buttons -->
+
+<!-- Optional Styling for Buttons filter -->
 <style>
 .filter-btn {
   padding: 0.4rem 0.8rem;
@@ -139,5 +140,14 @@ h3 {
   font-weight: bold;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
+}
+</style>
+
+<!-- Optional Styling for Buttons -->
+<style>
+.btn {
+  padding: 0.54rem 1.14rem;
+  border-radius: 0.5rem;
+  font-size: 0.71rem;
 }
 </style>
