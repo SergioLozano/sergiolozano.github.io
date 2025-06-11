@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
- <p style="font-size: 1rem;">This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is field-tested to help you solve problems, align teams, and get better results—faster. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.</p>
+ <p style="font-size: 0.90rem;">This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is field-tested to help you solve problems, align teams, and get better results—faster. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.</p>
 
 ---
 <!-- Filter Buttons -->
@@ -30,7 +30,7 @@ nav_order: 3
     <img src="/assets/img/thumbnail-product-launch-brief-gtm-strategy.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
     <div>
       <h3>Template for Product Launch Brief & GTM Strategy</h3>
-      <p style="font-size: 0.85rem;">This comprehensive slide-based product launch template comes with content structure and instructions to guide any PMM, from junior to senior ones, through the end-to-end launch process. Perfect for tech companies and adaptable to both sales-led and product-led organizations.</p>
+      <p style="font-size: 0.85rem;">This comprehensive slide-based product launch template comes with content structure and instructions to guide any both junio and senior PMMs through the end-to-end launch process. Perfect for product-led and sales-led tech organisations.</p>
       <p style="font-size: 0.85rem;">Download and customize the PPTX file or preview the template in PDF.</p>
       <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pdf" class="btn btn--primary">View PDF</a>
       <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pptx" class="btn">Download PPTX</a>
