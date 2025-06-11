@@ -14,6 +14,34 @@ Whether you're launching a new feature, aligning go-to-market teams, or refining
 ---
 
 <div style="margin-bottom: 2.5rem;">
+  <h2>Resources for Product Marketing</h2>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/assets/img/thumbnail-product-launch-brief-gtm-strategy.jpg" alt="Icon in beige of a prensetation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+  <div>
+    <h3>Template for Product Launch Brief & GTM Strategy</h3>
+    <p>This comprehensive slide-based product launch template includes both content structure and instructions to guide anyone, from junior to senior PMMs, through the end-to-end launch process.</p>
+    <p>Perfect for tech-companies and adapts to both sales-led and product-led organisation, you can also customise it to match your PMM needs. Download and customise the PPTX file or preview the template in PDF.</p>
+    <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pdf" class="btn btn--primary">View PDF</a>
+    <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pptx" class="btn">Download PPTX</a>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/assets/img/thumbnail-release-scope.jpg" alt="Icon in beige of a prensetation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+  <div>
+    <h3>Template for Release Scope</h3>
+    <p>This template for release scope will help you obtain information about upcoming feature releases. By asking Product Owners or Product Managers to fill out you ensure everyone understands what's included and excluded in a release, minimizing misunderstandings and scope creep.</p>
+    <p>Perfect for product marketing professionals in need of clear information from Product teams, so they cam effectively communicate what a project will deliver in a particular release. This template also comes with a pre-defined example to gide you. Download and customise the PPTX file or preview the template in PDF.</p>
+    <a href="https://sergiolozano.com/assets/resources/template-release-scope.pdf" class="btn btn--primary">View PDF</a>
+    <a href="https://sergiolozano.com/assets/resources/template-release-scope.pptx" class="btn">Download PPTX</a>
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom: 2.5rem;">
   <h2>Resources for Sales Enablement</h2>
 </div>
 
@@ -56,18 +84,3 @@ Whether you're launching a new feature, aligning go-to-market teams, or refining
 </div>
 
 ---
-
-<div style="margin-bottom: 2.5rem;">
-  <h2>Resources for Product Marketing</h2>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
-  <img src="/assets/img/thumbnail-release-scope.jpg" alt="Icon in beige of a prensetation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
-  <div>
-    <h3>Template for Release Scope</h3>
-    <p>This template for release scope will help you obtain information about upcoming feature releases. By asking Product Owners or Product Managers to fill out you ensure everyone understands what's included and excluded in a release, minimizing misunderstandings and scope creep.</p>
-    <p>Perfect for product marketing professionals in need of clear information from Product teams, so they cam effectively communicate what a project will deliver in a particular release. This template also comes with a pre-defined example to gide you. Download and customise the PPTX file or preview the template in PDF.</p>
-    <a href="https://sergiolozano.com/assets/resources/template-release-scope.pdf" class="btn btn--primary">View PDF</a>
-    <a href="https://sergiolozano.com/assets/resources/template-release-scope.pptx" class="btn">Download PPTX</a>
-  </div>
-</div>

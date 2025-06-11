@@ -18,7 +18,22 @@ In July 2024, I led the go-to-market launch of Logpoint’s new modular pricing 
 
 ## Context
 
-The existing all-in-one pricing model made it difficult for customers to scale or tailor the product to their needs. As a result, it hindered adoption among smaller security teams and made value communication complex for partners. A modular architecture, centered on a core SIEM and optional add-ons like Automation (SOAR), Case Management, and Behavior Analytics, was needed to meet growing demand for flexibility, support clearer value articulation, and create pricing predictability across segments.
+Logpoint was stucked into a model of Converged SIEM (SIEM+SOAR) with the option to add UEBA. This all-in-one pricing model made it difficult for customers to scale or tailor the product to their needs, but also they were paying for add-ons that were not use it, making them lose interest. As a result, it hindered adoption among smaller security teams and made value communication complex for partners.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logpoint-old-packaging.png" title="screenshot of Logpoint homepage" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logpoint-old-packaging-2.png" title="screenshot of Logpoint homepage including products" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Observe how many acronym-heavy the website was and how the old packaging made it more difficult to convey its value on the homepage".
+</div>
+
+
+To succeed, it was necessary to go for a modular architecture, centered on a core SIEM and optional add-ons. Each product will represent a solution. While the core SIEM will tackle log management, SOAR will be broken into two solutions: one for Automation and one for Case Management. Finally, UEBA will turn into  Behavior Analytics. This structure was intended to meet growing demand for flexibility and supported clearer value articulation. As SOAR was debundled from the main core product, it also reduced complexity and created pricing predictability across add-ons.
 
 ## Approach
 
@@ -26,7 +41,7 @@ I led the end-to-end transition to the new modular model. This included defining
 
 ## Output
 
-I executed a comprehensive GTM rollout. This included authoring segmented communications for customers, MSSPs, and partners; leading a full redesign of the website homepage; creating Figma mockups for new content pages; and rewriting all supporting materials such as sales presentations, FAQs, and internal training decks. Every asset was updated to reflect the new product structure and value propositions.
+As I had experience carrying large projects, I was tasked with the executing of the GTM strategy and rollout of this modular packaging and its pricing. This included authoring segmented communications for customers, MSSPs, and partners; leading a full redesign of the website homepage; creating Figma mockups for new content pages; and rewriting all supporting materials such as sales presentations, FAQs, and internal training decks. Every asset was updated to reflect the new product structure and value propositions.
 
 ## Outcomes
 
