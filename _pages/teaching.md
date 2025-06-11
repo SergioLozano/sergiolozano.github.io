@@ -7,41 +7,121 @@ nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div style="margin-bottom: 2rem;">
+  <p>For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+  Organize your courses by years, topics, or universities, however you like!</p>
+  
+  <p>This space is dedicated to sharing practical templates, frameworks, kits and other resources developed through real-world experience in product marketing, sales enablement, and customer experience. Each item here has been tested in the field and is intended to solve problems, improve collaboration, and drive better outcomes across teams.</p>
 
-Organize your courses by years, topics, or universities, however you like!
+  <p>Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources will save you time and help structure your work. Explore them, adapt as needed, and make them your own.</p>
+</div>
 
-This space is dedicated to sharing practical tools, templates, and other resources developed through real-world experience in product marketing, sales enablement, and customer experience. Whether you're launching a new feature, aligning go-to-market teams, or refining your messaging, these resources are designed to save you time and help you move with clarity.
-
-Each item here has been tested in the field—created to solve problems, improve collaboration, and drive better outcomes across teams. You’ll find content frameworks, enablement kits, positioning guides, and other materials that support the day-to-day rhythm of building, marketing, and selling great products.
-
-Go ahead and borrow them and feel free to explore, adapt, and make them your own.
-
-## Resources for Sales Enablement<br>
-
-
-<div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
-  <img src="/assets/img/thumbnail-one-pager-sales-enablement.jpg" alt="Icon in black and white of a file" style="width: 120px; height: auto; border: 1px solid #ccc;" />
-  <div>
-    <h3>Template for Sales One-Pager</h3>
-    <p>A single-page document that summarizes how a product or service help with a use case, highlighting its key value proposition,  benefits to potential customers, topics to avoid and questions to ask.</p>
-    <p>The template comes with an example of use case of a tech product for enterprises. Download and customise the DOCX file or preview the one-pager in PDF.</p>
-    <a href="https://sergiolozano.com/assets/resources/template-one-pager-for-use-cases-sales-conversations.pdf" class="btn btn--primary">View PDF</a>
-    <a href="https://sergiolozano.com/assets/resources/template-one-pager-for-use-cases-sales-conversations.docx" class="btn">Download DOCX</a>
+<!-- Filter Buttons -->
+<div style="margin-bottom: 2rem;">
+  <strong>Filter by type:</strong>
+  <div style="margin-top: 0.5rem;">
+    <button class="filter-btn" onclick="filterResources('all')">Show All</button>
+    <button class="filter-btn" onclick="filterResources('product-marketing')">Product Marketing</button>
+    <button class="filter-btn" onclick="filterResources('sales-enablement')">Sales Enablement</button>
+    <button class="filter-btn" onclick="filterResources('customer-experience')">Customer Experience</button>
   </div>
 </div>
 
----
+<!-- RESOURCE SECTIONS -->
 
-## Resources for Customer Experience<br>
+<!-- PRODUCT MARKETING -->
+<div class="resource-group product-marketing">
+  <h2>Resources for Product Marketing</h2>
 
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-product-launch-brief-gtm-strategy.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Template for Product Launch Brief & GTM Strategy</h3>
+      <p>This comprehensive slide-based product launch template includes both content structure and instructions to guide anyone, from junior to senior PMMs, through the end-to-end launch process.</p>
+      <p>Perfect for tech companies and adaptable to both sales-led and product-led organizations. Download and customize the PPTX file or preview the template in PDF.</p>
+      <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pdf" class="btn btn--primary">View PDF</a>
+      <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pptx" class="btn">Download PPTX</a>
+    </div>
+  </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
-  <img src="/assets/img/thumbnail-customer-journey-map-carrousel.jpg" alt="Thumbnail of a customer journey map made in Figma" style="width: 120px; height: auto; border: 1px solid #ccc;" />
-  <div>
-    <h3>Template for Customer Journey Map for B2B SaaS Products</h3>
-    <p>A visual representation of the stages a customer goes through when interacting with a company or brand, from initial awareness to post-purchase.</p>
-    <p>Perfect for hybrid environments of both product-led GTM and sales-led GTM, this template, can be adapted to each organisation's needs. You can customize as you please. If you like the template, give it a like and share.</p>
-    <a href="https://www.figma.com/community/file/1502648775036013780/customer-journey-map-b2b-saas-products" class="btn btn--primary">View Template in Figma</a>
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-release-scope.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Template for Release Scope</h3>
+      <p>This template helps you clarify what’s in and out of scope for each product release. Ideal for gathering inputs from Product Managers and ensuring marketing clarity.</p>
+      <p>Includes a pre-filled example. Download and customize the PPTX or preview the PDF.</p>
+      <a href="https://sergiolozano.com/assets/resources/template-release-scope.pdf" class="btn btn--primary">View PDF</a>
+      <a href="https://sergiolozano.com/assets/resources/template-release-scope.pptx" class="btn">Download PPTX</a>
+    </div>
   </div>
 </div>
+
+<!-- SALES ENABLEMENT -->
+<div class="resource-group sales-enablement">
+  <h2>Resources for Sales Enablement</h2>
+
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-one-pager-sales-enablement.jpg" alt="Icon of a file" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Template for Sales One-Pager</h3>
+      <p>A concise one-pager to support sales conversations, summarizing product value, use cases, objection handling, and key messaging.</p>
+      <a href="https://sergiolozano.com/assets/resources/template-one-pager-for-use-cases-sales-conversations.pdf" class="btn btn--primary">View PDF</a>
+      <a href="https://sergiolozano.com/assets/resources/template-one-pager-for-use-cases-sales-conversations.docx" class="btn">Download DOCX</a>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-competitor-battlecard.jpg" alt="Battlecard icon" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Template for Competitor Battlecards</h3>
+      <p>This battlecard template helps sellers position your product effectively against competitors. Includes SWOT, value differentiators, and talk tracks.</p>
+      <p>Download and customize to fit your sales motion.</p>
+      <a href="https://sergiolozano.com/assets/resources/template-competitor-battlecard.pdf" class="btn btn--primary">View PDF</a>
+      <a href="https://sergiolozano.com/assets/resources/template-competitor-battlecard.pptx" class="btn">Download PPTX</a>
+    </div>
+  </div>
+</div>
+
+<!-- CUSTOMER EXPERIENCE -->
+<div class="resource-group customer-experience">
+  <h2>Resources for Customer Experience</h2>
+
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-customer-journey-map-carrousel.jpg" alt="Customer Journey Map thumbnail" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Customer Journey Map for B2B SaaS</h3>
+      <p>A journey map for visualizing every stage of your customer lifecycle—from awareness to expansion. Tailored for hybrid GTM models.</p>
+      <a href="https://www.figma.com/community/file/1502648775036013780/customer-journey-map-b2b-saas-products" class="btn btn--primary">View Template in Figma</a>
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript Filtering Logic -->
+<script>
+function filterResources(category) {
+  const groups = document.querySelectorAll('.resource-group');
+  groups.forEach(group => {
+    if (category === 'all' || group.classList.contains(category)) {
+      group.style.display = 'block';
+    } else {
+      group.style.display = 'none';
+    }
+  });
+}
+</script>
+
+<!-- Optional Styling for Buttons -->
+<style>
+.filter-btn {
+  padding: 0.4rem 0.8rem;
+  margin-right: 0.5rem;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.filter-btn:hover {
+  background-color: #ddd;
+}
+</style>
