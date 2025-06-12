@@ -2,15 +2,14 @@
 layout: page
 permalink: /resources/
 title: resources
-description: This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is field-tested to help you solve problems, align teams, and get better results—faster. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.
+description: This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is tested in the field and designed to help you solve problems, align teams, and get better results. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.
 nav: true
 nav_order: 3
 ---
 
----
 <!-- Filter Buttons -->
 <div style="margin-bottom: 2rem;">
-  <strong>Filter by type:</strong>
+  <strong style="font-size: 0.95rem;">Filter by type:</strong>
   <div style="margin-top: 0.5rem;">
     <button class="filter-btn" onclick="filterResources('all')">Show All</button>
     <button class="filter-btn" onclick="filterResources('product-marketing')">Product Marketing</button>
@@ -18,7 +17,7 @@ nav_order: 3
     <button class="filter-btn" onclick="filterResources('customer-experience')">Customer Experience</button>
   </div>
 </div>
-
+---
 <!-- RESOURCE SECTIONS -->
 
 <!-- PRODUCT MARKETING -->
