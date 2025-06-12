@@ -2,12 +2,10 @@
 layout: page
 permalink: /resources/
 title: resources
-description: Here, you can find resources for product marketing, sales enablement, and CX.
+description: This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is field-tested to help you solve problems, align teams, and get better results—faster. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.
 nav: true
 nav_order: 3
 ---
-
- <p style="font-size: 0.90rem;">This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is field-tested to help you solve problems, align teams, and get better results—faster. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.</p>
 
 ---
 <!-- Filter Buttons -->
