@@ -498,7 +498,7 @@ ninja.data = [{
               window.location.href = "/projects/organic-lead-generation-for-sumup-invoices/";
             },},{id: "projects-pipeline-acceleration-for-logpoint",
           title: 'Pipeline acceleration for Logpoint',
-          description: "another project with an echart 🎉",
+          description: "Undertand how I used segmentation and email automation to accelerate the sales pipeline and increase SQL stage-to-stage conversion by 21%.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pipeline-acceleration-for-logpoint/";
             },},{
