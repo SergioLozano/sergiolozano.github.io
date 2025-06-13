@@ -476,6 +476,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-customer-insights-repository-for-sumup-invoices",
+          title: 'Customer insights repository for SumUp Invoices',
+          description: "Learn how I contributed to create a repository to transform customer feedback into customer insights and centralize the Voice of the Customer (VoC) under a single pane of glass.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/customer-insights-repository/";
             },},{id: "projects-customer-journey-map-for-sumup-invoices",
           title: 'Customer journey map for SumUp Invoices',
           description: "Discover how I created SumUp Invoices customer journey map and the repercussions it had for the organisation and other departments.",
