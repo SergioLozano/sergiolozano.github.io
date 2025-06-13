@@ -21,13 +21,19 @@ Only by truly understanding our customers' paths – their needs, their pain poi
     This overview shows you the first section of SumUp Invoices customer journey; from awareness until onboarding.
 </div>
 
-## TLDR;
+---
+
+## TL;DR
 
 I spearheaded the creation of the first comprehensive customer journey maps at SumUp for its invoicing solution, enabling a deeper understanding of customer pain points and opportunities, leading to improved customer experience, product development, and ultimately, business growth.
+
+---
 
 ## Context
 
 At SumUp, as a CX Manager, I was tasked with **establishing the CX function**, starting with SumUp Invoices. This involved embedding a customer-centric approach within the organization and addressing the diverse needs of different SumUp Invoices personas (e.g., existing SumUp card reader users vs. Invoices-first merchants). The core challenge was to gain a holistic understanding of the customer experience across all touchpoints, from initial awareness to retention and beyond, to identify areas for improvement and drive product-led growth.
+
+---
 
 ## Approach
 
@@ -36,7 +42,6 @@ I initiated and led the development of comprehensive customer journey maps for S
 For each touchpoint, I analyzed the customer's "job-to-be-done," their experience level, and visual references. This involved extensive collaboration with key stakeholders across Product, Marketing Automation, Marketing Acquisition, and Sales. 
 
 Together with a Customer Experience Specialist, I evaluated each touchpoint against customer expectations and effectiveness, using data from tracking and analytics tools. Identified pain points and opportunities were then logged as issues in Jira, allowing us to track their status from proposed solution to implementation and follow-up, or backlogging due to resource constraints.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,9 +63,13 @@ Together with a Customer Experience Specialist, I evaluated each touchpoint agai
     </div>
 </div>
 
+---
+
 ## Output
 
 The outcome was the first-ever visual representation of SumUp customer journeys, spanning the **entire lifecycle** from lead to lost customer. This comprehensive deliverable included multiple iterations of the customer journey map, detailing touchpoints, experience levels, proposed changes, relevant stakeholders, and issue tracking statuses for each identified pain point.
+
+---
 
 ## Outcomes
 

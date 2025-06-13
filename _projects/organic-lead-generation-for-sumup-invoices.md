@@ -12,6 +12,8 @@ chart:
 
 Remember Debitoor? Many dont't but for a few years, it was a trusted name for simple invoicing and accounting across Europe, tailored for freelancers and small businesses. But the Debitoor story is part of a larger narrative involving some of the big names in Nordic business software, culminating in its integration into the SumUp ecosystem---a project in which I participated.
 
+---
+
 ## TL;DR
 
 Learn how I drove a strategic content migration from Debitoor former domains to SumUp Invoices microsites. This wasn't just about moving content; it was a deliberate **lead-generation tactic** designed to foster growth for SumUp Invoices.
@@ -175,20 +177,30 @@ By migrating Debitoor's content, updating to match SumUp's product funnel and re
 }
 ```
 
+---
+
 ## Intro
 
 If you've been wondering what happened to Debitoor (whether you used debitoor.dk, debitoor.com, debitoor.es, debitoor.it, or any other domain), let's trace its journey. 
 
 Originating from Denmark's e-conomic around 2012, Debitoor established as its own company following Visma's 2015 acquisition of e-conomic, and its independent lifecycle concluded following its acquisition by SumUp. This acquisition was not merely a portfolio addition; it initiated a deliberate process of operational consolidation. SumUp's strategic objective was clear: integrate Debitoor's functionalities to create a unified financial services platform, moving beyond payment processing to encompass essential business management tools like invoicing and accounting.
 
+---
+
 ## Context
 After SumUp acquired Debitoor and launched SumUp Invoices using Debitoor’s technology, it became clear that a sales-led approach wouldn’t suit the invoicing product. We needed to shift to a product-led growth strategy—and that meant making the most of Debitoor’s high-quality, SEO-optimized content. I led the initiative to migrate and repurpose this content across four markets: the UK, Denmark, Spain, and Italy. The goal was to transfer organic traffic and search authority to new SumUp Invoices microsites, building a scalable acquisition engine from scratch.
+
+---
 
 ## Approach
 We ran an agile, phased migration to minimize risk and maximize learning. I started by auditing all existing Debitoor content—categorizing it by market relevance, product fit, and current SEO performance. From there, we curated what to keep, merge, or rewrite. Me and my teams handled content adaptation for each local market: Updating terminology (e.g., switching “users” to SumUp’s preferred term “merchants”), drawing paralellisms with SumUp's card reader busines, making correction mentions to features that would be differnt in SumUp Invoices, changing CTAs, and adapting internal linking to fit our new product messaging. We migrated everything into SumUp’s CMS, ensured correct redirects to preserve SEO value, and implemented custom tracking to tie content performance to signups.
 
+---
+
 ## Output
 We successfully moved hundreds of high-performing pages—including blogs, help articles, and a content-rich accounting dictionary—onto SumUp’s domain. Each was localized, optimized, and integrated with our product funnel to act as a clear path to conversion.
+
+---
 
 ## Outcomes
 In just a few months post-migration, it started giving results. After a year, we scaled SumUp Invoices from zero to over 6,000 content-attributed signups across the four markets I led. The project not only drove sustained organic growth but also laid the foundation for SEO-led acquisition at SumUp.
