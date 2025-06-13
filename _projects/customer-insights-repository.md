@@ -24,18 +24,6 @@ SumUp was undergoing a significant transition in the second half of 2021, aiming
 
 At the time, customer feedback was being collected inconsistently across multiple channels—support tickets, surveys, research sessions, and informal product conversations. There was no unified system for storing or analyzing this information. As a result, customer needs were often underrepresented in strategic planning and product discussions. Creating a single, scalable, and structured repository of insights became a critical first step.
 
-As the ecosystem grew, so did the need to deeply understand customer needs in order to offer a more personalized, value-driven experience.
-
-This need gave rise to the company’s first Customer Experience department, starting within the Invoicing and Accounting team. I stepped into the newly created role of CX Manager, with a mission to embed a customer-centric mindset in product development and strategy. But before CX could influence decisions, we had to ensure the company had the right tools to listen effectively.
-
-Customer feedback was being collected, but it was fragmented across multiple channels—surveys, support tickets, user interviews, and ad hoc notes from product managers. It was inconsistent, often inaccessible, and lacked a unified system for analysis. If we were to champion the voice of the customer, we needed a single source of truth.
-
-
-
-With this growth came the necessity to deeply understand customer behaviors, pain points, and expectations. The Invoicing and Accounting squad became the pilot team for embedding Customer Experience practices. I was appointed as CX Manager to lead this effort and act as an ambassador to promote customer-centricity across other teams.
-
-At the time, customer feedback was being collected inconsistently across multiple channels—support tickets, surveys, research sessions, and informal product conversations. There was no unified system for storing or analyzing this information. As a result, customer needs were often underrepresented in strategic planning and product discussions. Creating a single, scalable, and structured repository of insights became a critical first step.
-
 ---
 
 ## Approach

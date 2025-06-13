@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GTM Launch of new pricing and packaging
+title: GTM launch of new pricing and packaging
 description: Discover how I drove the launch of Logpoint's new pricing and packaging, from defining the positioning and messaging to executing the campaigns for its launch.
 img: assets/img/new-pricing-repackaging-blog.png
 importance: 1
