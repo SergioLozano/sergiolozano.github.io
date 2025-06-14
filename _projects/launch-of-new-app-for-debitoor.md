@@ -10,6 +10,7 @@ category: work
 In 2016, I led a video campaign for the launch of Debitoor’s redesigned mobile invoicing app, one of the most creatively fulfilling and strategically impactful campaigns of my career. With complete creative and GTM ownership, I orchestrated a lean but high-impact campaigns that resonated with freelancers and small business owners across Europe.
 
 From messaging development to campaign production and localization, I owned the end-to-end strategy. The result: a memorable product video campaign that resonated with freelancers and small business owners across Europe, and helped position Debitoor as a fresh alternative to the corporate-heavy accounting tools on the market.
+
 ---
 
 ## TL;DR
@@ -17,6 +18,7 @@ From messaging development to campaign production and localization, I owned the 
 Debitoor launched a redesigned mobile app tailored to the needs of European freelancers and SMBs. I led the go-to-market strategy and campaign execution—from crafting the core messaging and value proposition to creating a standout launch video and managing localization in four markets. The campaign emphasized speed, simplicity, and freedom with the tagline:
 **“Send invoices in seconds. Get back to what matters.”**
 The campaign increased mobile app downloads, strengthened our market positioning, and showed how a well-aligned GTM strategy can compete with bigger players on a limited budget.
+
 ---
 
 ## Context
@@ -26,6 +28,7 @@ Before its acquisition by SumUp, Debitoor was a growing SaaS company offering in
 While the product was significantly improved, we were operating in a crowded space with established players like Sage and QuickBooks. Our edge? A casual, modern brand tone, an intuitive product experience, and a strong base of mobile-first users.
 
 We needed a GTM campaign that reflected this edge; fast, relatable, and tailored to the everyday lives of small business owners in motion.
+
 ---
 
 ## Approach
@@ -37,7 +40,7 @@ Working with a colleague who shared my passion for hands-on video production, we
 I embarked myself on a flight to Berlin, where my colleague was based, and we locked ourselves in a meeting room for two days, finalizing the storyboard and filming everything using just a camera, a smartphone, a homemade green screen, and a lot of creative hustle.
 
 
-<div style="width: 50%; margin: 0 auto;">
+<div style="width: 90%; margin: 0 auto;">
   <video width="100%" controls>
     <source src="/assets/video/COM-DB5D8362.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -57,7 +60,7 @@ To bring the campaign to life:
 
 The new campaign slogan?
 🎯 “Send invoices in seconds. Get back to what matters.”
-It emphasized speed, simplicity, and freedom—the core values that defined both the product and our users.
+It emphasized speed, simplicity, and freedom: the core values that defined both the product and our users.
 
 ---
 
