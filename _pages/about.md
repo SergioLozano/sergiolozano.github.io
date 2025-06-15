@@ -36,27 +36,4 @@ Trained in leadership and having managed international teams across different lo
 
 Others describe me as T-shaped marketer, full-stack product marketing manager, and a product launch wizard ✨ But I like to think that I'm a product marketeer clued up in design thinking and with a flair for project management and hungry for data.
 
-
-<h2>My favourite work playlist</h2>
-
-Here’s what I’ve been listening to lately:
-
-<div style="max-width: 500px; margin: 1.5rem auto;">
-  <iframe style="border-radius:12px" 
-          src="https://open.spotify.com/embed/playlist/4aJ8roXTQIUZyZ3Ns5Pbk7?utm_source=generator&theme=0" 
-          width="100%" 
-          height="152" 
-          frameBorder="0" 
-          allowfullscreen="" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-  </iframe>
-</div>
-
-<!-- Optional Styling for Headers -->
-<style>
-h2 {
-  font-size: 1.4rem;
-  font-weight: bold;
-  margin-bottom: 1rem;
-}
+---
