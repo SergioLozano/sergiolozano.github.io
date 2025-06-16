@@ -34,4 +34,4 @@ With 10+ years of experience in B2B marketing and CX in the tech industry, I lev
 
 Trained in leadership and having managed international teams across different locations, I've developed strong skills in fostering cross-functional collaboration for aligning product, sales, customer success and marketing teams. I enjoy leading by example and embedding empathy into my work style ❤️
 
-Others describe me as T-shaped marketer, full-stack product marketing manager, and a product launch wizard ✨ But I like to think that I'm a product marketeer clued up in design thinking and with a flair for project management and hungry for data.
+Others describe me as T-shaped marketer, full-stack product marketing manager, and a product launch wizard ✨ But I like to think that I'm a product marketer clued up in design thinking and with a flair for project management and hungry for data.
