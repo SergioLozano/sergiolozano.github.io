@@ -88,32 +88,44 @@ layout: default
     </div>
 
     <!-- Goodreads Section -->
-    <div style="margin-top: 2rem;">
-      <h3 style="font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;">What I am reading this year </h3>
-      <p style="font-size: 0.9rem; line-height: 1.5;">Here’s a glimpse at my reading challenge and recent books on Goodreads.</p>
+    <div style="margin-top: 2rem; display: flex; justify-content: flex-end; flex-wrap: wrap;">
+      <div style="max-width: 600px; width: 100%; box-sizing: border-box; text-align: right; padding: 1rem; margin: 0 auto;">
+        <h3 style="font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;">What I am reading this year</h3>
+        <p style="font-size: 0.9rem; line-height: 1.5;">Here’s a glimpse at my reading challenge and recent books on Goodreads.</p>
 
-      {% raw %}
-     <div style="display: flex; justify-content: center; margin-top: 2rem;">
-        <div id="gr_challenge_11627" style="border: 2px solid #EBE8D5; border-radius: 12px; padding: 20px; max-width: 600px; min-height: 200px; font-size: 16px; background-color: #faf9f6;">
+        {% raw %}
+        <div id="gr_challenge_11627" style="
+            border: 2px solid #EBE8D5;
+            border-radius: 12px;
+            padding: 20px;
+            background-color: #faf9f6;
+            font-size: 16px;
+            box-sizing: border-box;
+            width: 100%;
+          ">
           <div id="gr_challenge_progress_body_11627" style="font-family: georgia,serif; line-height: 1.8;">
             <h3 style="margin: 0 0 20px; font-weight: normal; text-align: center;">
-              <a style="text-decoration: none; font-style: italic; font-size: 1.6em;" rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge">
+              <a style="text-decoration: none; font-style: italic; font-size: 1.6em;" rel="nofollow"
+                href="https://www.goodreads.com/challenges/11627-2025-reading-challenge">
                 2025 Reading Challenge
               </a>
             </h3>
 
-            <div style="display: flex; align-items: center; margin-bottom: 20px;">
+            <div style="display: flex; flex-direction: row-reverse; align-items: center; flex-wrap: wrap; gap: 1rem;">
               <a rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge">
-                <img alt="2025 Reading Challenge" style="width: 160px; height: auto; border-radius: 6px; margin-right: 20px;" src="https://images.gr-assets.com/challenges/1733511050p2/11627.jpg" />
+                <img alt="2025 Reading Challenge"
+                  style="width: 160px; height: auto; border-radius: 6px;" 
+                  src="https://images.gr-assets.com/challenges/1733511050p2/11627.jpg" />
               </a>
 
-              <div style="flex: 1;">
+              <div style="flex: 1; min-width: 200px;">
                 <div style="margin-bottom: 10px;">
                   <a rel="nofollow" href="https://www.goodreads.com/user/show/146733831-sergio-lozano">Sergio</a>
                   has read <strong>7 books</strong> toward their goal of <strong>20 books</strong>.
                 </div>
 
-                <div style="width: 100%; height: 14px; border: 1px solid #382110; background-color: #fff; border-radius: 6px; overflow: hidden;">
+                <div
+                  style="width: 100%; height: 14px; border: 1px solid #382110; background-color: #fff; border-radius: 6px; overflow: hidden;">
                   <div style="width: 35%; background-color: #D7D2C4; height: 100%;"></div>
                 </div>
 
@@ -123,15 +135,16 @@ layout: default
               </div>
             </div>
 
-            <div style="text-align: right;">
-              <a style="text-decoration: none; font-size: 14px;" rel="nofollow" href="https://www.goodreads.com/user_challenges/61727875">View books</a>
+            <div style="text-align: right; margin-top: 1rem;">
+              <a style="text-decoration: none; font-size: 14px;" rel="nofollow"
+                href="https://www.goodreads.com/user_challenges/61727875">View books</a>
             </div>
           </div>
 
           <script src="https://www.goodreads.com/user_challenges/widget/146733831-sergio-lozano?challenge_id=11627&v=2"></script>
         </div>
+        {% endraw %}
       </div>
-      {% endraw %}
     </div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
