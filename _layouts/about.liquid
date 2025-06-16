@@ -87,9 +87,21 @@ layout: default
       </iframe>
     </div>
 
-    <!-- Goodreads Section -->
-    <div style="margin-top: 2rem; display: flex; justify-content: flex-end; flex-wrap: wrap;">
-      <div style="max-width: 600px; width: 100%; box-sizing: border-box; text-align: right; padding: 1rem; margin: 0 auto;">
+    <style>
+      @media (max-width: 600px) {
+        .goodreads-wrapper {
+          justify-content: center !important;
+          text-align: center !important;
+        }
+        .goodreads-content {
+          text-align: center !important;
+        }
+      }
+    </style>
+
+   <!-- Goodreads Section -->
+    <div style="margin-top: 2rem; display: flex; justify-content: flex-end; flex-wrap: wrap;" class="goodreads-wrapper">
+      <div style="max-width: 500px; width: 100%; box-sizing: border-box; text-align: right; padding: 1rem;" class="goodreads-content">
         <h3 style="font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;">What I am reading this year</h3>
         <p style="font-size: 0.9rem; line-height: 1.5;">Here’s a glimpse at my reading challenge and recent books on Goodreads.</p>
 
