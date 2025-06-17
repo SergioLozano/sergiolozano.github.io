@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /whyme/
 title: Why Me?
 description: This page explains my positioning as a product marketing professional, highlighting how my broad capabilities and deep specialization can drive significant commercial results for your organization
 nav: false
 nav_order: 6
 ---
-
 
 <style>
 /* Positioning Matrix Styles */
@@ -19,7 +18,7 @@ nav_order: 6
     border: 1px solid var(--global-divider-color); /* Use theme divider for border */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     background-color: var(--global-card-bg-color); /* Use card background for matrix container */
-    overflow: hidden; /* Ensure no overflow issues */
+    overflow: visible; /* CHANGE: Allow content to overflow for axis labels */
 }
 
 .matrix-grid {
@@ -46,6 +45,7 @@ nav_order: 6
     background-color: var(--global-bg-color); /* Use global background for quadrants */
     transition: background-color 0.3s ease;
     box-sizing: border-box; /* Include padding in element's total width and height */
+    position: relative; /* Needed for absolute positioning of marker inside quadrant */
 }
 
 .quadrant.top-right {
@@ -53,6 +53,7 @@ nav_order: 6
     border-color: var(--global-tip-block); /* A stronger highlight border */
 }
 
+/* Axis Labels */
 .quadrant-label {
     position: absolute;
     font-weight: bold;
@@ -61,7 +62,7 @@ nav_order: 6
 }
 
 .x-axis-label {
-    bottom: -35px;
+    bottom: -55px; /* Adjust this value to move the label further down */
     left: 50%;
     transform: translateX(-50%); /* Centering the label */
     width: 100%;
@@ -71,23 +72,24 @@ nav_order: 6
 
 .y-axis-label {
     top: 50%;
-    left: -35px; /* Adjust as needed */
+    left: -70px; /* Adjust this value to move the label further left */
     transform: translateY(-50%) rotate(-90deg);
     transform-origin: center center;
     white-space: nowrap;
 }
 
+/* Axis Arrows */
 .x-axis-arrow, .y-axis-arrow {
     position: absolute;
     background-color: var(--global-theme-color); /* Use theme color for arrows */
 }
 
 .x-axis-arrow {
-    bottom: 0;
-    left: 50%;
-    width: 50%;
+    bottom: 0; /* Aligns with the bottom of the container */
+    left: 50%; /* Starts from the middle */
+    width: 50%; /* Extends to the right */
     height: 2px;
-    transform: translateX(-50%);
+    transform: translateX(-50%); /* Pulls back to truly center the starting point */
 }
 .x-axis-arrow::after {
     content: '';
@@ -102,11 +104,11 @@ nav_order: 6
 }
 
 .y-axis-arrow {
-    top: 50%;
-    left: 0;
-    height: 50%;
+    top: 50%; /* Starts from the middle */
+    left: 0; /* Aligns with the left of the container */
+    height: 50%; /* Extends upwards */
     width: 2px;
-    transform: translateY(-50%);
+    transform: translateY(-50%); /* Pulls back to truly center the starting point */
 }
 .y-axis-arrow::after {
     content: '';
@@ -123,9 +125,9 @@ nav_order: 6
 /* Specific position marker */
 .your-position-marker {
     position: absolute;
-    top: 25%; /* Roughly center of upper-right */
-    right: 25%; /* Roughly center of upper-right */
-    transform: translate(50%, -50%); /* Adjust for perfect centering */
+    top: 15px;   /* CHANGE: Position relative to quadrant's top */
+    right: 15px; /* CHANGE: Position relative to quadrant's right */
+    transform: none; /* CHANGE: Remove previous transform to avoid overlap */
     background-color: var(--global-highlight-color); /* Use your theme's highlight color */
     color: var(--global-hover-text-color); /* Use a high contrast text color for the marker */
     padding: 5px 10px;
@@ -151,14 +153,16 @@ nav_order: 6
         font-size: 0.9em;
     }
     .x-axis-label {
-        bottom: -30px;
+        bottom: -45px; /* Adjust for smaller screens */
     }
     .y-axis-label {
-        left: -30px;
+        left: -60px; /* Adjust for smaller screens */
     }
     .your-position-marker {
         font-size: 0.75em;
         padding: 4px 8px;
+        top: 10px;
+        right: 10px;
     }
 }
 
@@ -171,18 +175,25 @@ nav_order: 6
         font-size: 0.8em;
     }
     .x-axis-label {
-        bottom: -25px;
+        bottom: -40px; /* Adjust for even smaller screens */
     }
     .y-axis-label {
-        left: -25px;
+        left: -50px; /* Adjust for even smaller screens */
     }
     .your-position-marker {
         font-size: 0.7em;
         padding: 3px 6px;
+        top: 8px;
+        right: 8px;
     }
 }
 </style>
 
+# Why Me? Your Strategic Commercial Accelerator
+
+As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years driving success for SaaS & on-prem products**, I bridge the gap between product innovation and market success, turning strategic vision into tangible commercial growth.
+
+This page explains my unique positioning in the product marketing landscape, illustrating how my broad expertise combined with a deep specialization can significantly benefit your organization.
 
 ## My T-Shaped Professional Positioning Matrix
 
@@ -195,6 +206,7 @@ The core idea behind this matrix is to define one axis that represents my broad,
         </div>
         <div class="quadrant top-right">
             **Upper-Right (Your Position):** A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
+            <div class="your-position-marker">YOU ARE HERE</div>
         </div>
         <div class="quadrant bottom-left">
             **Lower-Left:** Developing in both broad PMM and commercial impact.
@@ -211,7 +223,6 @@ The core idea behind this matrix is to define one axis that represents my broad,
     </div>
     <div class="x-axis-arrow"></div>
     <div class="y-axis-arrow"></div>
-    <div class="your-position-marker">YOU ARE HERE</div>
 </div>
 
 ### Understanding the Axes:
