@@ -11,12 +11,12 @@ nav_order: 6
 /* NEW: Wrapper for the entire matrix + axes */
 .matrix-wrapper {
     display: grid;
-    /* CHANGE: Define 2 columns: fixed width for Y-axis label, 1fr for matrix */
-    grid-template-columns: 100px 1fr; /* Adjust 100px if your Y-axis label text is wider */
+    /* CHANGE: Revert to auto 1fr for columns, auto for Y-axis width, 1fr for matrix */
+    grid-template-columns: auto 1fr;
     /* Define 2 rows: 1fr for matrix & Y-axis, auto for X-axis label */
     grid-template-rows: 1fr auto;
     width: 90%; /* Responsive width for the entire component */
-    max-width: 680px; /* CHANGE: Max width for the entire component (100px + 550px + 15px gap approx) */
+    max-width: 650px; /* CHANGE: Max width for the entire component (controls overall size and centering) */
     margin: 40px auto 100px auto; /* Centered the wrapper, ample bottom margin */
     gap: 15px; /* Space between grid items (matrix and labels) */
     grid-template-areas:
@@ -73,10 +73,10 @@ nav_order: 6
 
 /* Axis Labels */
 .quadrant-label {
+    /* Font styles are now managed by .quadrant-label, but transform/positioning by grid/inner span */
     font-weight: bold;
-    color: var(--global-theme-color); /* Use theme color for labels */
+    color: var(--global-theme-color);
     font-size: 1em;
-    white-space: nowrap; /* Prevent wrapping */
 }
 
 .x-axis-label {
@@ -84,16 +84,23 @@ nav_order: 6
     align-self: start; /* Align to the top of its grid cell */
     padding-top: 10px; /* Space from the matrix bottom */
     justify-self: center; /* Horizontally center within its grid cell */
+    white-space: nowrap; /* Prevent wrapping for horizontal label */
 }
 
 .y-axis-label {
     grid-area: y-axis; /* Place in its grid area */
-    justify-self: end; /* CHANGE: Push content to the right edge of its grid cell */
-    transform: rotate(-90deg); /* Rotate the text */
-    transform-origin: 0% 50%; /* CHANGE: Rotate around its own left-center point */
-    white-space: nowrap;
-    padding-right: 20px; /* CHANGE: Increased space from the matrix left */
-    box-sizing: border-box; /* Include padding in height/width calculation */
+    display: flex; /* Make it a flex container to align inner text */
+    align-items: center; /* Vertically center the inner text */
+    justify-content: flex-end; /* Push inner text to the right (before rotation) */
+    /* Remove padding-right from here, apply negative margin to inner text */
+}
+
+.y-axis-text { /* NEW CLASS for the actual rotated text */
+    white-space: nowrap; /* Prevent wrapping */
+    transform: rotate(-90deg); /* Apply rotation here */
+    transform-origin: 0% 50%; /* Rotate around its own left-center point */
+    margin-right: -20px; /* CHANGE: Pull the rotated text closer to the matrix. Fine-tune this value. */
+    /* Inherits font-weight, color, font-size from .quadrant-label parent */
 }
 
 
@@ -162,9 +169,8 @@ nav_order: 6
 @media (max-width: 768px) {
     .matrix-wrapper {
         width: 95%; /* Adjust wrapper width */
-        max-width: 500px; /* Reduced max-width for smaller overall size */
+        max-width: 500px; /* Adjusted max-width */
         gap: 10px;
-        grid-template-columns: 80px 1fr; /* Adjusted Y-axis column width */
     }
     .quadrant {
         font-size: 0.8em;
@@ -173,8 +179,8 @@ nav_order: 6
     .quadrant-label {
         font-size: 0.9em;
     }
-    .y-axis-label {
-        padding-right: 15px; /* Adjusted for smaller screens */
+    .y-axis-text {
+        margin-right: -15px; /* Adjusted for smaller screens */
     }
     .x-axis-label {
         padding-top: 8px;
@@ -192,7 +198,6 @@ nav_order: 6
         width: 100%; /* Even wider for very small screens */
         max-width: 350px; /* Further reduced max-width */
         gap: 8px;
-        grid-template-columns: 60px 1fr; /* Adjusted Y-axis column width for very small screens */
     }
     .quadrant {
         font-size: 0.7em;
@@ -201,8 +206,8 @@ nav_order: 6
     .quadrant-label {
         font-size: 0.8em;
     }
-    .y-axis-label {
-        padding-right: 10px; /* Adjusted for very small screens */
+    .y-axis-text {
+        margin-right: -10px; /* Adjusted for very small screens */
     }
     .x-axis-label {
         padding-top: 6px;
@@ -228,7 +233,7 @@ The core idea behind this matrix is to define one axis that represents my broad,
 
 <div class="matrix-wrapper">
     <div class="quadrant-label y-axis-label">
-        Driving Strategic Commercial Acceleration (Depth)
+        <span class="y-axis-text">Driving Strategic Commercial Acceleration (Depth)</span>
     </div>
 
     <div class="matrix-container">
