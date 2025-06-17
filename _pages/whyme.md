@@ -11,14 +11,14 @@ nav_order: 6
 /* Positioning Matrix Styles */
 .matrix-container {
     position: relative;
-    width: 90%; /* Adjust for desired width */
-    max-width: 700px; /* Max width for larger screens */
-    padding-bottom: 90%; /* Creates a square aspect ratio */
-    margin: 40px auto; /* Keeps some space around the matrix */
+    width: 70%; /* CHANGE: Reduced size */
+    max-width: 550px; /* CHANGE: Reduced max-width for smaller overall size */
+    padding-bottom: 70%; /* CHANGE: Reduced size, maintains square aspect ratio */
+    margin: 40px auto 80px auto; /* CHANGE: Added margin-bottom to create space for X-axis label */
     border: 1px solid var(--global-divider-color); /* Use theme divider for border */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     background-color: var(--global-card-bg-color); /* Use card background for matrix container */
-    overflow: visible; /* CHANGE: Allow content to overflow for axis labels */
+    overflow: visible; /* Crucial: Allow content (axis labels) to overflow */
 }
 
 .matrix-grid {
@@ -62,7 +62,7 @@ nav_order: 6
 }
 
 .x-axis-label {
-    bottom: -55px; /* Adjust this value to move the label further down */
+    bottom: -70px; /* CHANGE: Moved label further down to prevent clash */
     left: 50%;
     transform: translateX(-50%); /* Centering the label */
     width: 100%;
@@ -72,7 +72,7 @@ nav_order: 6
 
 .y-axis-label {
     top: 50%;
-    left: -70px; /* Adjust this value to move the label further left */
+    left: -90px; /* CHANGE: Moved label further left to be outside matrix */
     transform: translateY(-50%) rotate(-90deg);
     transform-origin: center center;
     white-space: nowrap;
@@ -125,9 +125,9 @@ nav_order: 6
 /* Specific position marker */
 .your-position-marker {
     position: absolute;
-    top: 15px;   /* CHANGE: Position relative to quadrant's top */
-    right: 15px; /* CHANGE: Position relative to quadrant's right */
-    transform: none; /* CHANGE: Remove previous transform to avoid overlap */
+    top: 15px;   /* Position relative to quadrant's top */
+    right: 15px; /* Position relative to quadrant's right */
+    transform: none; /* Remove previous transform to avoid overlap */
     background-color: var(--global-highlight-color); /* Use your theme's highlight color */
     color: var(--global-hover-text-color); /* Use a high contrast text color for the marker */
     padding: 5px 10px;
@@ -142,8 +142,8 @@ nav_order: 6
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .matrix-container {
-        width: 95%;
-        padding-bottom: 95%; /* Maintain square on smaller screens */
+        width: 80%; /* Adjusted for smaller screens */
+        padding-bottom: 80%; /* Maintain square on smaller screens */
     }
     .quadrant {
         font-size: 0.8em;
@@ -153,10 +153,10 @@ nav_order: 6
         font-size: 0.9em;
     }
     .x-axis-label {
-        bottom: -45px; /* Adjust for smaller screens */
+        bottom: -55px; /* Adjusted for smaller screens */
     }
     .y-axis-label {
-        left: -60px; /* Adjust for smaller screens */
+        left: -70px; /* Adjusted for smaller screens */
     }
     .your-position-marker {
         font-size: 0.75em;
@@ -167,6 +167,10 @@ nav_order: 6
 }
 
 @media (max-width: 480px) {
+    .matrix-container {
+        width: 90%; /* Adjusted for very small screens */
+        padding-bottom: 90%;
+    }
     .quadrant {
         font-size: 0.7em;
         padding: 8px;
@@ -175,10 +179,10 @@ nav_order: 6
         font-size: 0.8em;
     }
     .x-axis-label {
-        bottom: -40px; /* Adjust for even smaller screens */
+        bottom: -50px; /* Adjusted for even smaller screens */
     }
     .y-axis-label {
-        left: -50px; /* Adjust for even smaller screens */
+        left: -60px; /* Adjusted for even smaller screens */
     }
     .your-position-marker {
         font-size: 0.7em;
