@@ -11,19 +11,17 @@ nav_order: 6
 /* NEW: Wrapper for the entire matrix + axes */
 .matrix-wrapper {
     display: grid;
-    /* Define 3 columns: auto for Y-axis label, 1fr for matrix, auto for potential right space (unused but good practice) */
-    grid-template-columns: auto 1fr; /* Simplified for just Y-axis and matrix */
-    /* Define 3 rows: 1fr for matrix & Y-axis, auto for X-axis label */
-    grid-template-rows: 1fr auto; /* Simplified for matrix and X-axis */
+    /* Define 2 columns: auto for Y-axis label (takes just enough space), 1fr for matrix (takes remaining space) */
+    grid-template-columns: auto 1fr;
+    /* Define 2 rows: 1fr for matrix & Y-axis, auto for X-axis label */
+    grid-template-rows: 1fr auto;
     width: 90%; /* Responsive width for the entire component */
     max-width: 700px; /* Max width for the entire component */
-    margin: 40px auto; /* Center the whole component on the page */
+    margin: 40px auto 100px auto; /* CHANGE: Centered the wrapper, added bottom margin */
     gap: 15px; /* Space between grid items (matrix and labels) */
     grid-template-areas:
         "y-axis matrix"
-        ". x-axis"; /* Defines named areas for grid layout */
-    align-items: center; /* Vertically centers content in rows */
-    justify-items: center; /* Horizontally centers content in columns */
+        ". x-axis"; /* Defines named areas for grid layout. The dot means empty cell. */
 }
 
 /* Positioning Matrix Styles */
@@ -36,7 +34,7 @@ nav_order: 6
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     background-color: var(--global-card-bg-color); /* Use card background for matrix container */
     overflow: hidden; /* Revert overflow back to hidden for the matrix itself */
-    margin: 0; /* Remove previous external margins */
+    margin: 0; /* Remove previous external margins as wrapper handles it */
 }
 
 .matrix-grid {
@@ -83,16 +81,22 @@ nav_order: 6
     grid-area: x-axis; /* Place in its grid area */
     align-self: start; /* Align to the top of its grid cell */
     padding-top: 10px; /* Space from the matrix bottom */
+    justify-self: center; /* Horizontally center within its grid cell */
 }
 
 .y-axis-label {
     grid-area: y-axis; /* Place in its grid area */
-    align-self: center; /* Vertically center within its grid cell */
-    justify-self: end; /* Align to the right of its grid cell */
+    height: 100%; /* CHANGE: Make the label occupy the full height of its grid cell */
+    display: flex; /* CHANGE: Use flexbox for internal centering */
+    align-items: center; /* CHANGE: Vertically center content using flexbox */
+    justify-content: flex-end; /* CHANGE: Push content to the right (before rotation) */
     transform: rotate(-90deg); /* Rotate the text */
-    transform-origin: 100% 50%; /* Rotate around its right edge, centered vertically */
+    /* REMOVED transform-origin: 100% 50%; because justify-content handles the alignment better here. */
+    white-space: nowrap;
     padding-right: 10px; /* Space from the matrix left */
+    box-sizing: border-box; /* Include padding in height/width calculation */
 }
+
 
 /* Axis Arrows (remain relative to matrix-container) */
 .x-axis-arrow, .y-axis-arrow {
