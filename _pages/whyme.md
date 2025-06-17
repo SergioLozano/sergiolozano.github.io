@@ -11,24 +11,26 @@ nav_order: 6
 /* NEW: Wrapper for the entire matrix + axes */
 .matrix-wrapper {
     display: grid;
-    /* Define 2 columns: auto for Y-axis label (takes just enough space), 1fr for matrix (takes remaining space) */
-    grid-template-columns: auto 1fr;
+    /* CHANGE: Define 2 columns: fixed width for Y-axis label, 1fr for matrix */
+    grid-template-columns: 100px 1fr; /* Adjust 100px if your Y-axis label text is wider */
     /* Define 2 rows: 1fr for matrix & Y-axis, auto for X-axis label */
     grid-template-rows: 1fr auto;
     width: 90%; /* Responsive width for the entire component */
-    max-width: 700px; /* Max width for the entire component */
-    margin: 40px auto 100px auto; /* CHANGE: Centered the wrapper, added bottom margin */
+    max-width: 680px; /* CHANGE: Max width for the entire component (100px + 550px + 15px gap approx) */
+    margin: 40px auto 100px auto; /* Centered the wrapper, ample bottom margin */
     gap: 15px; /* Space between grid items (matrix and labels) */
     grid-template-areas:
         "y-axis matrix"
         ". x-axis"; /* Defines named areas for grid layout. The dot means empty cell. */
+    align-items: center; /* Vertically centers grid items in their rows (Y-axis label) */
+    justify-items: center; /* Horizontally centers grid items in their columns (X-axis label) */
 }
 
 /* Positioning Matrix Styles */
 .matrix-container {
     grid-area: matrix; /* Assign matrix to its area */
     position: relative;
-    width: 100%; /* Fill its grid cell */
+    width: 100%; /* Fill its grid cell (1fr column) */
     padding-bottom: 100%; /* Maintain square aspect ratio based on its new width */
     border: 1px solid var(--global-divider-color); /* Use theme divider for border */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -86,14 +88,11 @@ nav_order: 6
 
 .y-axis-label {
     grid-area: y-axis; /* Place in its grid area */
-    height: 100%; /* CHANGE: Make the label occupy the full height of its grid cell */
-    display: flex; /* CHANGE: Use flexbox for internal centering */
-    align-items: center; /* CHANGE: Vertically center content using flexbox */
-    justify-content: flex-end; /* CHANGE: Push content to the right (before rotation) */
+    justify-self: end; /* CHANGE: Push content to the right edge of its grid cell */
     transform: rotate(-90deg); /* Rotate the text */
-    /* REMOVED transform-origin: 100% 50%; because justify-content handles the alignment better here. */
+    transform-origin: 0% 50%; /* CHANGE: Rotate around its own left-center point */
     white-space: nowrap;
-    padding-right: 10px; /* Space from the matrix left */
+    padding-right: 20px; /* CHANGE: Increased space from the matrix left */
     box-sizing: border-box; /* Include padding in height/width calculation */
 }
 
@@ -163,7 +162,9 @@ nav_order: 6
 @media (max-width: 768px) {
     .matrix-wrapper {
         width: 95%; /* Adjust wrapper width */
+        max-width: 500px; /* Reduced max-width for smaller overall size */
         gap: 10px;
+        grid-template-columns: 80px 1fr; /* Adjusted Y-axis column width */
     }
     .quadrant {
         font-size: 0.8em;
@@ -173,7 +174,7 @@ nav_order: 6
         font-size: 0.9em;
     }
     .y-axis-label {
-        padding-right: 8px;
+        padding-right: 15px; /* Adjusted for smaller screens */
     }
     .x-axis-label {
         padding-top: 8px;
@@ -189,7 +190,9 @@ nav_order: 6
 @media (max-width: 480px) {
     .matrix-wrapper {
         width: 100%; /* Even wider for very small screens */
+        max-width: 350px; /* Further reduced max-width */
         gap: 8px;
+        grid-template-columns: 60px 1fr; /* Adjusted Y-axis column width for very small screens */
     }
     .quadrant {
         font-size: 0.7em;
@@ -199,7 +202,7 @@ nav_order: 6
         font-size: 0.8em;
     }
     .y-axis-label {
-        padding-right: 6px;
+        padding-right: 10px; /* Adjusted for very small screens */
     }
     .x-axis-label {
         padding-top: 6px;
