@@ -8,216 +8,183 @@ nav_order: 6
 ---
 
 <style>
-/* NEW: Wrapper for the entire matrix + axes */
+/* MATRIX WRAPPER FIXED */
 .matrix-wrapper {
-    display: grid;
-    /* CHANGE: Revert to auto 1fr for columns, auto for Y-axis width, 1fr for matrix */
-    grid-template-columns: auto 1fr;
-    /* Define 2 rows: 1fr for matrix & Y-axis, auto for X-axis label */
-    grid-template-rows: 1fr auto;
-    width: 90%; /* Responsive width for the entire component */
-    max-width: 650px; /* CHANGE: Max width for the entire component (controls overall size and centering) */
-    margin: 40px auto 100px auto; /* Centered the wrapper, ample bottom margin */
-    gap: 15px; /* Space between grid items (matrix and labels) */
-    grid-template-areas:
-        "y-axis matrix"
-        ". x-axis"; /* Defines named areas for grid layout. The dot means empty cell. */
-    align-items: center; /* Vertically centers grid items in their rows (Y-axis label) */
-    justify-items: center; /* Horizontally centers grid items in their columns (X-axis label) */
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 1fr auto;
+  grid-template-areas:
+    "y-axis matrix"
+    ". x-axis";
+  max-width: 650px;
+  margin: 40px auto 100px auto;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Positioning Matrix Styles */
 .matrix-container {
-    grid-area: matrix; /* Assign matrix to its area */
-    position: relative;
-    width: 100%; /* Fill its grid cell (1fr column) */
-    padding-bottom: 100%; /* Maintain square aspect ratio based on its new width */
-    border: 1px solid var(--global-divider-color); /* Use theme divider for border */
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    background-color: var(--global-card-bg-color); /* Use card background for matrix container */
-    overflow: hidden; /* Revert overflow back to hidden for the matrix itself */
-    margin: 0; /* Remove previous external margins as wrapper handles it */
+  grid-area: matrix;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border: 1px solid var(--global-divider-color);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--global-card-bg-color);
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
 }
 
 .matrix-grid {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 100%;
+  height: 100%;
 }
 
 .quadrant {
-    border: 1px solid var(--global-divider-color); /* Use theme divider for quadrant borders */
-    padding: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    font-size: 0.9em;
-    line-height: 1.4;
-    color: var(--global-text-color); /* Use global text color */
-    background-color: var(--global-bg-color); /* Use global background for quadrants */
-    transition: background-color 0.3s ease;
-    box-sizing: border-box; /* Include padding in element's total width and height */
-    position: relative; /* Needed for absolute positioning of marker inside quadrant */
+  border: 1px solid var(--global-divider-color);
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 0.9em;
+  line-height: 1.4;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+  box-sizing: border-box;
+  position: relative;
 }
 
 .quadrant.top-right {
-    background-color: var(--global-tip-block-bg); /* Use a subtle highlight color from theme */
-    border-color: var(--global-tip-block); /* A stronger highlight border */
+  background-color: var(--global-tip-block-bg);
+  border-color: var(--global-tip-block);
 }
 
-/* Axis Labels */
 .quadrant-label {
-    /* Font styles are now managed by .quadrant-label, but transform/positioning by grid/inner span */
-    font-weight: bold;
-    color: var(--global-theme-color);
-    font-size: 1em;
+  font-weight: bold;
+  color: var(--global-theme-color);
+  font-size: 1em;
 }
 
 .x-axis-label {
-    grid-area: x-axis; /* Place in its grid area */
-    align-self: start; /* Align to the top of its grid cell */
-    padding-top: 10px; /* Space from the matrix bottom */
-    justify-self: center; /* Horizontally center within its grid cell */
-    white-space: nowrap; /* Prevent wrapping for horizontal label */
+  grid-area: x-axis;
+  justify-self: center;
+  padding-top: 10px;
+  white-space: nowrap;
 }
 
 .y-axis-label {
-    grid-area: y-axis; /* Place in its grid area */
-    display: flex; /* Make it a flex container to align inner text */
-    align-items: center; /* Vertically center the inner text */
-    justify-content: flex-end; /* Push inner text to the right (before rotation) */
-    /* Remove padding-right from here, apply negative margin to inner text */
+  grid-area: y-axis;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  text-align: center;
 }
 
-.y-axis-text { /* NEW CLASS for the actual rotated text */
-    white-space: nowrap; /* Prevent wrapping */
-    transform: rotate(-90deg); /* Apply rotation here */
-    transform-origin: 0% 50%; /* Rotate around its own left-center point */
-    margin-right: -20px; /* CHANGE: Pull the rotated text closer to the matrix. Fine-tune this value. */
-    /* Inherits font-weight, color, font-size from .quadrant-label parent */
+.y-axis-label span {
+  white-space: nowrap;
+  font-weight: bold;
+  color: var(--global-theme-color);
+  font-size: 1em;
 }
 
-
-/* Axis Arrows (remain relative to matrix-container) */
 .x-axis-arrow, .y-axis-arrow {
-    position: absolute;
-    background-color: var(--global-theme-color);
+  position: absolute;
+  background-color: var(--global-theme-color);
 }
 
 .x-axis-arrow {
-    bottom: 0;
-    left: 50%;
-    width: 50%;
-    height: 2px;
-    transform: translateX(-50%);
+  bottom: 0;
+  left: 50%;
+  width: 50%;
+  height: 2px;
+  transform: translateX(-50%);
 }
+
 .x-axis-arrow::after {
-    content: '';
-    position: absolute;
-    right: 0;
-    top: -4px;
-    width: 0;
-    height: 0;
-    border-top: 5px solid transparent;
-    border-bottom: 5px solid transparent;
-    border-left: 8px solid var(--global-theme-color);
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -4px;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 8px solid var(--global-theme-color);
 }
 
 .y-axis-arrow {
-    top: 50%;
-    left: 0;
-    height: 50%;
-    width: 2px;
-    transform: translateY(-50%);
+  top: 50%;
+  left: 0;
+  height: 50%;
+  width: 2px;
+  transform: translateY(-50%);
 }
+
 .y-axis-arrow::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -4px;
-    width: 0;
-    height: 0;
-    border-left: 5px solid transparent;
-    border-right: 5px solid transparent;
-    border-bottom: 8px solid var(--global-theme-color);
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 8px solid var(--global-theme-color);
 }
 
-/* Specific position marker */
 .your-position-marker {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    transform: none;
-    background-color: var(--global-highlight-color);
-    color: var(--global-hover-text-color);
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-weight: bold;
-    font-size: 0.85em;
-    white-space: nowrap;
-    z-index: 10;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: var(--global-highlight-color);
+  color: var(--global-hover-text-color);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 0.85em;
+  white-space: nowrap;
+  z-index: 10;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-/* Responsive adjustments for the entire wrapper and its contents */
 @media (max-width: 768px) {
-    .matrix-wrapper {
-        width: 95%; /* Adjust wrapper width */
-        max-width: 500px; /* Adjusted max-width */
-        gap: 10px;
-    }
-    .quadrant {
-        font-size: 0.8em;
-        padding: 10px;
-    }
-    .quadrant-label {
-        font-size: 0.9em;
-    }
-    .y-axis-text {
-        margin-right: -15px; /* Adjusted for smaller screens */
-    }
-    .x-axis-label {
-        padding-top: 8px;
-    }
-    .your-position-marker {
-        font-size: 0.75em;
-        padding: 4px 8px;
-        top: 10px;
-        right: 10px;
-    }
+  .matrix-wrapper {
+    width: 95%;
+    max-width: 500px;
+    gap: 10px;
+  }
+  .quadrant {
+    font-size: 0.8em;
+    padding: 10px;
+  }
+  .your-position-marker {
+    font-size: 0.75em;
+    padding: 4px 8px;
+  }
 }
 
 @media (max-width: 480px) {
-    .matrix-wrapper {
-        width: 100%; /* Even wider for very small screens */
-        max-width: 350px; /* Further reduced max-width */
-        gap: 8px;
-    }
-    .quadrant {
-        font-size: 0.7em;
-        padding: 8px;
-    }
-    .quadrant-label {
-        font-size: 0.8em;
-    }
-    .y-axis-text {
-        margin-right: -10px; /* Adjusted for very small screens */
-    }
-    .x-axis-label {
-        padding-top: 6px;
-    }
-    .your-position-marker {
-        font-size: 0.7em;
-        padding: 3px 6px;
-        top: 8px;
-        right: 8px;
-    }
+  .matrix-wrapper {
+    width: 100%;
+    max-width: 350px;
+    gap: 8px;
+  }
+  .quadrant {
+    font-size: 0.7em;
+    padding: 8px;
+  }
+  .your-position-marker {
+    font-size: 0.7em;
+    padding: 3px 6px;
+  }
 }
 </style>
 
@@ -229,36 +196,32 @@ This page explains my unique positioning in the product marketing landscape, ill
 
 ## My T-Shaped Professional Positioning Matrix
 
-The core idea behind this matrix is to define one axis that represents my broad, interconnected capabilities and another that represents a deep, impactful specialization.
-
 <div class="matrix-wrapper">
-    <div class="quadrant-label y-axis-label">
-        <span class="y-axis-text">Driving Strategic Commercial Acceleration (Depth)</span>
+  <div class="y-axis-label">
+    <span>Driving Strategic Commercial Acceleration (Depth)</span>
+  </div>
+  <div class="matrix-container">
+    <div class="matrix-grid">
+      <div class="quadrant top-left">
+        **Upper-Left:** Broad in product marketing but with less direct impact on commercial acceleration.
+      </div>
+      <div class="quadrant top-right">
+        **Upper-Right (Your Position):** A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
+        <div class="your-position-marker">YOU ARE HERE</div>
+      </div>
+      <div class="quadrant bottom-left">
+        **Lower-Left:** Developing in both broad PMM and commercial impact.
+      </div>
+      <div class="quadrant bottom-right">
+        **Lower-Right:** Strong in commercial drive but with a narrower focus or less integrated PMM approach.
+      </div>
     </div>
-
-    <div class="matrix-container">
-        <div class="matrix-grid">
-            <div class="quadrant top-left">
-                **Upper-Left:** Broad in product marketing but with less direct impact on commercial acceleration.
-            </div>
-            <div class="quadrant top-right">
-                **Upper-Right (Your Position):** A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
-                <div class="your-position-marker">YOU ARE HERE</div>
-            </div>
-            <div class="quadrant bottom-left">
-                **Lower-Left:** Developing in both broad PMM and commercial impact.
-            </div>
-            <div class="quadrant bottom-right">
-                **Lower-Right:** Strong in commercial drive but with a narrower focus or less integrated PMM approach.
-            </div>
-        </div>
-        <div class="x-axis-arrow"></div>
-        <div class="y-axis-arrow"></div>
-    </div>
-
-    <div class="quadrant-label x-axis-label">
-        Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)
-    </div>
+    <div class="x-axis-arrow"></div>
+    <div class="y-axis-arrow"></div>
+  </div>
+  <div class="x-axis-label quadrant-label">
+    Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)
+  </div>
 </div>
 
 ### Understanding the Axes:
