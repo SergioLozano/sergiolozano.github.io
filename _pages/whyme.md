@@ -119,27 +119,27 @@ As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years 
 The core idea behind this matrix is to define one axis that represents my broad, interconnected capabilities and another that represents a deep, impactful specialization.
 
 <div class="matrix-wrapper">
-  <div class="y-axis-label">Driving Strategic Commercial Acceleration (Depth)</div>
+  <div class="y-axis-label">+ Driving Strategic Commercial Acceleration (Depth) - </div>
 
   <div class="matrix-container">
     <div class="matrix-grid">
       <div class="quadrant top-left">
-        <strong>Upper-Left:</strong> Low breadth, high depth: Deeply skilled in strategic commercial growth, but with less interdisciplinary product marketing experience.
+        <strong>Low breadth, high depth:</strong> Deeply skilled in strategic commercial growth, but with less interdisciplinary product marketing experience.
       </div>
       <div class="quadrant top-right">
-        <strong>Upper-Right (Your Position):</strong> High breadth, high depth: A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
+        <strong>High breadth, high depth:</strong> A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
         <div class="your-position-marker">THAT'S ME!</div>
       </div>
       <div class="quadrant bottom-left">
-        <strong>Lower-Left:</strong> Low breadth, low depth: Early in their product marketing career, building both broad and deep capabilities.
+        <strong>Low breadth, low depth:</strong> Early in their product marketing career, building both broad and deep capabilities.
       </div>
       <div class="quadrant bottom-right">
-        <strong>Lower-Right:</strong> High breadth, low depth: Skilled across many product marketing domains, but with a lower direct impact on pipeline acceleration.
+        <strong>High breadth, low depth:</strong> Skilled across many product marketing domains, but with a lower direct impact on pipeline acceleration.
       </div>
     </div>
   </div>
 
-  <div class="x-axis-label">Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)</div>
+  <div class="x-axis-label">- Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth) +</div>
 </div>
 
 ### Understanding the Axes:
