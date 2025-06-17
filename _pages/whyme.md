@@ -124,17 +124,17 @@ The core idea behind this matrix is to define one axis that represents my broad,
   <div class="matrix-container">
     <div class="matrix-grid">
       <div class="quadrant top-left">
-        <strong>Upper-Left:</strong> Broad in product marketing but with less direct impact on commercial acceleration.
+        <strong>Upper-Left:</strong> Low breadth, high depth: Deeply skilled in strategic commercial growth, but with less interdisciplinary product marketing experience.
       </div>
       <div class="quadrant top-right">
-        <strong>Upper-Right (Your Position):</strong> A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
-        <div class="your-position-marker">YOU ARE HERE</div>
+        <strong>Upper-Right (Your Position):</strong> High breadth, high depth: A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
+        <div class="your-position-marker">THAT'S ME!</div>
       </div>
       <div class="quadrant bottom-left">
-        <strong>Lower-Left:</strong> Developing in both broad PMM and commercial impact.
+        <strong>Lower-Left:</strong> Low breadth, low depth: Early in their product marketing career, building both broad and deep capabilities.
       </div>
       <div class="quadrant bottom-right">
-        <strong>Lower-Right:</strong> Strong in commercial drive but with a narrower focus or less integrated PMM approach.
+        <strong>Lower-Right:</strong> High breadth, low depth: Skilled across many product marketing domains, but with a lower direct impact on pipeline acceleration.
       </div>
     </div>
   </div>
