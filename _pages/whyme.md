@@ -15,8 +15,8 @@ nav_order: 6
   grid-template-areas:
     "y-axis matrix"
     ". x-axis";
-  width: 85%; /* Reduced from 100% to 85% */
-  max-width: 595px; /* Reduced from 700px to ~85% */
+  width: 85%;
+  max-width: 595px;
   margin: 50px auto;
   align-items: center;
   justify-items: center;
@@ -61,7 +61,7 @@ nav_order: 6
 
 .quadrant {
   border: 1px solid var(--global-divider-color);
-  padding: 15px;
+  padding: 25px 15px 15px 15px; /* Increased top padding */
   font-size: 0.9em;
   text-align: center;
   display: flex;
@@ -69,6 +69,12 @@ nav_order: 6
   justify-content: center;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  flex-direction: column;
+}
+
+.quadrant strong {
+  margin-bottom: 8px; /* Adds spacing below label */
+  display: block;
 }
 
 .quadrant.top-right {
@@ -90,7 +96,6 @@ nav_order: 6
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
   .matrix-wrapper {
     max-width: 95%;
@@ -98,7 +103,7 @@ nav_order: 6
   }
   .quadrant {
     font-size: 0.8em;
-    padding: 10px;
+    padding: 20px 10px 10px 10px; /* Adjusted top padding */
   }
   .x-axis-label, .y-axis-label {
     font-size: 0.9em;
@@ -119,7 +124,7 @@ As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years 
 The core idea behind this matrix is to define one axis that represents my broad, interconnected capabilities and another that represents a deep, impactful specialization.
 
 <div class="matrix-wrapper">
-  <div class="y-axis-label">+ Driving Strategic Commercial Acceleration (Depth) - </div>
+  <div class="y-axis-label">Driving Strategic Commercial Acceleration (Depth)</div>
 
   <div class="matrix-container">
     <div class="matrix-grid">
@@ -139,7 +144,7 @@ The core idea behind this matrix is to define one axis that represents my broad,
     </div>
   </div>
 
-  <div class="x-axis-label">- Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth) +</div>
+  <div class="x-axis-label">Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)</div>
 </div>
 
 ### Understanding the Axes:
