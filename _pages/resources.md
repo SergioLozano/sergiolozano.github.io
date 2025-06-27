@@ -27,8 +27,8 @@ nav_order: 3
     <img src="/assets/img/thumbnail-product-launch-brief-gtm-strategy.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
     <div>
       <h3>Template for Product Launch Brief & GTM Strategy</h3>
-      <p style="font-size: 0.85rem;">This comprehensive slide-based product launch template comes with content structure and instructions to guide any both junio and senior PMMs through the end-to-end launch process. Perfect for product-led and sales-led tech organisations.</p>
-      <p style="font-size: 0.85rem;">Download and customize the PPTX file or preview the template in PDF.</p>
+      <p style="font-size: 0.85rem;">This comprehensive slide-based product launch template comes with content structure and instructions to guide both junior and senior PMMs through the end-to-end launch process. Perfect for product-led and sales-led tech organisations.</p>
+      <p style="font-size: 0.85rem;">Download and customsze the PPTX file or preview the template in PDF.</p>
       <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pdf" class="btn btn--primary">View PDF</a>
       <a href="https://sergiolozano.com/assets/resources/template-product-launch-brief-gtm-strategy.pptx" class="btn">Download PPTX</a>
     </div>
@@ -39,13 +39,24 @@ nav_order: 3
     <div>
       <h3>Template for Release Scope</h3>
       <p style="font-size: 0.85rem;">This template helps you clarify what’s in and out of scope for each product release. Ideal for gathering inputs from Product Managers and ensuring marketing clarity.</p>
-      <p style="font-size: 0.85rem;">Includes a pre-filled example. Download and customize the PPTX or preview the PDF.</p>
+      <p style="font-size: 0.85rem;">Includes a pre-filled example. Download and customise the PPTX or preview the PDF.</p>
       <a href="https://sergiolozano.com/assets/resources/template-release-scope.pdf" class="btn btn--primary">View PDF</a>
       <a href="https://sergiolozano.com/assets/resources/template-release-scope.pptx" class="btn">Download PPTX</a>
     </div>
   </div>
 </div>
 
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-gtm-value-prop-canvas.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Template for GTM Value Proposition Canvas</h3>
+      <p style="font-size: 0.85rem;">A practical slide-based template to help product marketers, PMs, and founders build clear, customer-focused value propositions for GTM strategies.</p>
+      <p style="font-size: 0.85rem;">Includes the full canvas, guided slides with prompt questions, and a worked example. Download and customise the PPTX or preview the PDF.</p>
+      <a href="https://sergiolozano.com/assets/resources/template-value-prop-canvas-gtm.pdf" class="btn btn--primary">View PDF</a>
+      <a href="https://sergiolozano.com/assets/resources/template-value-prop-canvas-gtm.pptx" class="btn">Download PPTX</a>
+    </div>
+  </div>
+</div>
 
 
 <!-- SALES ENABLEMENT -->
@@ -66,7 +77,7 @@ nav_order: 3
     <div>
       <h3>Template for Competitor Battlecards</h3>
       <p style="font-size: 0.85rem;">This battlecard template helps sellers position your product effectively against competitors. Includes SWOT, value differentiators, and talk tracks.</p>
-      <p style="font-size: 0.85rem;">Download and customize to fit your sales motion.</p>
+      <p style="font-size: 0.85rem;">Download and customise to fit your sales motion.</p>
       <a href="https://sergiolozano.com/assets/resources/template-competitor-battlecard.pdf" class="btn btn--primary">View PDF</a>
       <a href="https://sergiolozano.com/assets/resources/template-competitor-battlecard.pptx" class="btn">Download PPTX</a>
     </div>
