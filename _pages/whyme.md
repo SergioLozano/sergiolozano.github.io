@@ -88,8 +88,8 @@ nav_order: 6
 
 .your-position-marker {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 6px;
+  right: 6px;
   background-color: var(--global-highlight-color);
   color: var(--global-hover-text-color);
   padding: 4px 8px;
@@ -104,8 +104,29 @@ nav_order: 6
 @media (max-width: 768px) {
   .matrix-wrapper {
     max-width: 100%;
-    gap: 12px;
+    gap: 10px;
   }
+  .matrix-container {
+    padding-bottom: 130%;
+  }
+  .matrix-grid {
+    height: 100%;
+  }
+  .quadrant {
+    font-size: 0.68em;
+    padding: 20px 12px 12px 12px;
+    line-height: 1.45;
+  }
+  .x-axis-label, .y-axis-label {
+    font-size: 0.85em;
+  }
+  .your-position-marker {
+    font-size: 0.65em;
+    padding: 3px 6px;
+    top: 6px;
+    right: 6px;
+  }
+}
   .matrix-container {
     padding-bottom: 120%;
   }
