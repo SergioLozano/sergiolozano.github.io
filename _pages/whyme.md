@@ -62,16 +62,17 @@ nav_order: 6
 
 .quadrant {
   border: 1px solid var(--global-divider-color);
-  padding: 25px 15px 15px 15px;
+  padding: 25px 20px 20px 20px;
   font-size: 0.9em;
   text-align: center;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
   flex-direction: column;
   overflow: auto;
+  box-sizing: border-box;
 }
 
 .quadrant strong {
@@ -87,8 +88,9 @@ nav_order: 6
 
 .your-position-marker {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
   background-color: var(--global-highlight-color);
   color: var(--global-hover-text-color);
   padding: 4px 8px;
@@ -96,6 +98,8 @@ nav_order: 6
   font-weight: bold;
   font-size: 0.75em;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  white-space: nowrap;
+  z-index: 10;
 }
 
 @media (max-width: 768px) {
@@ -104,19 +108,21 @@ nav_order: 6
     gap: 12px;
   }
   .matrix-container {
-    padding-bottom: 120%;
+    padding-bottom: 130%;
   }
   .matrix-grid {
     height: 100%;
   }
   .quadrant {
     font-size: 0.8em;
-    padding: 20px 10px 10px 10px;
+    padding: 35px 16px 20px 16px;
+    line-height: 1.4;
   }
   .x-axis-label, .y-axis-label {
     font-size: 0.9em;
   }
   .your-position-marker {
+    top: 6px;
     font-size: 0.7em;
     padding: 3px 6px;
   }
@@ -140,8 +146,8 @@ The core idea behind this matrix is to define one axis that represents my broad,
         <strong>Low breadth, high depth:</strong> Deeply skilled in strategic commercial growth, but with less interdisciplinary product marketing experience.
       </div>
       <div class="quadrant top-right">
-        <strong>High breadth, high depth:</strong> A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
         <div class="your-position-marker">THAT'S ME!</div>
+        <strong>High breadth, high depth:</strong> A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
       </div>
       <div class="quadrant bottom-left">
         <strong>Low breadth, low depth:</strong> Early in their product marketing career, building both broad and deep capabilities.
