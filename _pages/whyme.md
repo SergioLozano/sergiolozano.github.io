@@ -57,11 +57,12 @@ nav_order: 6
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
+  height: 100%;
 }
 
 .quadrant {
   border: 1px solid var(--global-divider-color);
-  padding: 25px 15px 15px 15px; /* Increased top padding */
+  padding: 25px 15px 15px 15px;
   font-size: 0.9em;
   text-align: center;
   display: flex;
@@ -70,10 +71,11 @@ nav_order: 6
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
   flex-direction: column;
+  overflow: auto;
 }
 
 .quadrant strong {
-  margin-bottom: 8px; /* Adds spacing below label */
+  margin-bottom: 8px;
   display: block;
 }
 
@@ -98,12 +100,18 @@ nav_order: 6
 
 @media (max-width: 768px) {
   .matrix-wrapper {
-    max-width: 95%;
+    max-width: 100%;
     gap: 12px;
+  }
+  .matrix-container {
+    padding-bottom: 120%;
+  }
+  .matrix-grid {
+    height: 100%;
   }
   .quadrant {
     font-size: 0.8em;
-    padding: 20px 10px 10px 10px; /* Adjusted top padding */
+    padding: 20px 10px 10px 10px;
   }
   .x-axis-label, .y-axis-label {
     font-size: 0.9em;
