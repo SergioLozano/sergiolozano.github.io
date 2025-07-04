@@ -57,7 +57,6 @@ nav_order: 6
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  height: 100%;
 }
 
 .quadrant {
@@ -71,8 +70,7 @@ nav_order: 6
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
   flex-direction: column;
-  overflow: auto;
-  box-sizing: border-box;
+  overflow-wrap: break-word;
 }
 
 .quadrant strong {
@@ -88,8 +86,8 @@ nav_order: 6
 
 .your-position-marker {
   position: absolute;
-  top: 6px;
-  right: 6px;
+  top: 10px;
+  right: 10px;
   background-color: var(--global-highlight-color);
   color: var(--global-hover-text-color);
   padding: 4px 8px;
@@ -97,72 +95,24 @@ nav_order: 6
   font-weight: bold;
   font-size: 0.75em;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  white-space: nowrap;
-  z-index: 10;
+  z-index: 1;
 }
 
 @media (max-width: 768px) {
   .matrix-wrapper {
-    max-width: 100%;
-    gap: 10px;
-  }
-  .matrix-container {
-    padding-bottom: 130%;
-  }
-  .matrix-grid {
-    height: 100%;
+    max-width: 95%;
+    gap: 12px;
   }
   .quadrant {
-    font-size: 0.68em;
-    padding: 20px 12px 12px 12px;
-    line-height: 1.45;
+    font-size: 0.7em;
+    padding: 18px 8px 10px 8px;
   }
   .x-axis-label, .y-axis-label {
     font-size: 0.85em;
   }
   .your-position-marker {
     font-size: 0.65em;
-    padding: 3px 6px;
-    top: 6px;
-    right: 6px;
-  }
-}
-  .matrix-container {
-    padding-bottom: 120%;
-  }
-  .matrix-grid {
-    height: 100%;
-  }
-  .quadrant {
-    font-size: 0.7em;
-    padding: 18px 10px 10px 10px;
-    line-height: 1.4;
-  }
-  .x-axis-label, .y-axis-label {
-    font-size: 0.9em;
-  }
-  .your-position-marker {
-    font-size: 0.7em;
-    padding: 3px 6px;
-  }
-}
-  .matrix-container {
-    padding-bottom: 120%;
-  }
-  .matrix-grid {
-    height: 100%;
-  }
-  .quadrant {
-    font-size: 0.8em;
-    padding: 20px 10px 10px 10px;
-    line-height: 1.4;
-  }
-  .x-axis-label, .y-axis-label {
-    font-size: 0.9em;
-  }
-  .your-position-marker {
-    font-size: 0.7em;
-    padding: 3px 6px;
+    padding: 2px 5px;
   }
 }
 </style>
