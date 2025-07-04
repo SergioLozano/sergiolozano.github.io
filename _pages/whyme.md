@@ -71,6 +71,7 @@ nav_order: 6
   background-color: var(--global-bg-color);
   flex-direction: column;
   overflow-wrap: break-word;
+  line-height: 1.4;
 }
 
 .quadrant strong {
@@ -104,8 +105,9 @@ nav_order: 6
     gap: 12px;
   }
   .quadrant {
-    font-size: 0.7em;
-    padding: 18px 8px 10px 8px;
+    font-size: 0.68em;
+    line-height: 1.1;
+    padding: 14px 6px 6px 6px;
   }
   .x-axis-label, .y-axis-label {
     font-size: 0.85em;
@@ -131,17 +133,21 @@ The core idea behind this matrix is to define one axis that represents my broad,
   <div class="matrix-container">
     <div class="matrix-grid">
       <div class="quadrant top-left">
-        <strong>Low breadth, high depth:</strong> Deeply skilled in strategic commercial growth, but with less interdisciplinary product marketing experience.
+        <strong>Low breadth, high depth:</strong>
+        <span>Deeply skilled in strategic commercial growth, but with less interdisciplinary product marketing experience.</span>
       </div>
       <div class="quadrant top-right">
-        <strong>High breadth, high depth:</strong> A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.
+        <strong>High breadth, high depth:</strong>
+        <span>A versatile, full-stack product marketer deeply skilled in driving strategic commercial growth.</span>
         <div class="your-position-marker">THAT'S ME!</div>
       </div>
       <div class="quadrant bottom-left">
-        <strong>Low breadth, low depth:</strong> Early in their product marketing career, building both broad and deep capabilities.
+        <strong>Low breadth, low depth:</strong>
+        <span>Early in their product marketing career, building both broad and deep capabilities.</span>
       </div>
       <div class="quadrant bottom-right">
-        <strong>High breadth, low depth:</strong> Skilled across many product marketing domains, but with a lower direct impact on pipeline acceleration.
+        <strong>High breadth, low depth:</strong>
+        <span>Skilled across many product marketing domains, but with a lower direct impact on pipeline acceleration.</span>
       </div>
     </div>
   </div>
