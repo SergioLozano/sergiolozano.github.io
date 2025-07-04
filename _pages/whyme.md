@@ -2,7 +2,7 @@
 layout: page
 permalink: /whyme/
 title: Why Me?
-description: This page explains my positioning as a product marketing professional, highlighting how my broad capabilities and deep specialization can drive significant commercial results for your organization
+description: Market yourself to anything else. This page explains my positioning as a product marketing professional, highlighting how my broad capabilities and deep specialization can drive significant commercial results for your organization
 nav: false
 nav_order: 6
 ---
@@ -119,13 +119,11 @@ nav_order: 6
 }
 </style>
 
-# Why Me? Your Strategic Commercial Accelerator
+# My T-Shaped Professional Positioning Matrix
 
-As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years driving success for SaaS & on-prem products**, I bridge the gap between product innovation and market success, turning strategic vision into tangible commercial growth.
+As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years driving success for tech products**, I enjoy turning strategic vision into tangible commercial growth. How? Well, I do so by applying techniques from different product marketing-adjacent disciplines to bridge the gap between product innovation and real value.
 
-## My T-Shaped Professional Positioning Matrix
-
-The core idea behind this matrix is to define one axis that represents my broad, interconnected capabilities and another that represents a deep, impactful specialization.
+Allow me to show you how this looks. The core idea behind this matrix is to define one axis that represents my broad, interconnected capabilities and another that represents a deep, impactful specialization.
 
 <div class="matrix-wrapper">
   <div class="y-axis-label">Driving Strategic Commercial Acceleration (Depth)</div>
@@ -172,3 +170,31 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
 As a "Copenhagen-based Full-Stack Product Marketing Manager" with "10+ years driving success for SaaS & on-prem products", I possess an extensive breadth of expertise covering "Product Positioning & Messaging," "Go-to-Market Strategy," "Customer Experience (CX)," and "Sales Enablement". This holistic understanding allows me to seamlessly "bridge the gap between Product, Sales, Marketing, and Customer Success".
 
 My deep specialization lies in "Commercial Growth," where I've demonstrated direct success by "implementing lead and demand generation programs...that deliver results and accelerate the sales pipeline", showing my capacity to translate broad knowledge into tangible, impactful growth. This unique combination ensures I am not just creating marketing materials, but actively accelerating your sales pipeline and contributing to your bottom line.
+
+<!-- Divider -->
+    <hr style="margin: 3rem auto; max-width: 150px; border: 0; border-top: 1px dashed var(--global-divider-color);" />
+
+    <!-- T-Shaped Matrix Section -->
+    <div style="margin: 3rem auto; max-width: 850px; background-color: var(--global-card-bg-color); padding: 2rem; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <h3 style="text-align: center; font-size: 1.4rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
+        🧩 My T-Shaped Professional Matrix
+      </h3>
+      <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+        The idea behind this matrix is simple: <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth.
+      </p>
+
+      <ul style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; padding-left: 1rem; color: var(--global-text-color-light);">
+        <li><strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.</li>
+        <li><strong>Y-axis:</strong> Strategic Commercial Acceleration – executing high-impact lead and demand gen programs that move the needle.</li>
+      </ul>
+
+      <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
+        <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
+          “You’ll find me in the upper-right quadrant: a versatile full-stack PMM with a sharp focus on accelerating revenue growth.”
+        </p>
+      </div>
+
+      <p style="font-size: 0.85rem; margin-top: 1.5rem; color: var(--global-text-color-light);">
+        Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
+      </p>
+    </div>
