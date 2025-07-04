@@ -172,6 +172,12 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
 
   <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
     <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
+      “You’ll find me in the upper-right quadrant: a versatile full-stack PMM with a sharp focus on accelerating revenue growth.”
+    </p>
+  </div>
+
+  <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
+    <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
        This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
         * Product Positioning & Messaging
         * Go-to-Market Strategy
