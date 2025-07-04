@@ -163,38 +163,28 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
   </p>
 
   <ul style="margin-top: 1rem; font-size: 1.1rem; line-height: 1.6; padding-left: 1rem; color: var(--global-text-color-light);">
-    <li><strong>X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)</strong></li>
+    <strong>X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)</strong>
   </ul>
 
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.
   </p>  
 
-  <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
+  <div style="margin-top: 1rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
     <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
-      “You’ll find me in the upper-right quadrant: a versatile full-stack PMM with a sharp focus on accelerating revenue growth.”
-    </p>
-  </div>
-
-  <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
-       This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
-        * Product Positioning & Messaging
-        * Go-to-Market Strategy
-        * Customer Experience (CX)
-        * Sales Enablement
+       This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans Product Positioning & Messaging, Go-to-Market Strategy, Customer Experience (CX), Product-Led Growth, and Sales Enablement.
     </p>
   </div>
 
   <ul style="margin-top: 1rem; font-size: 1.1rem; line-height: 1.6; padding-left: 1rem; color: var(--global-text-color-light);">
-    <li><strong>Y-axis: Driving Strategic Commercial Acceleration (Depth)</strong></li>
+    <strong>Y-axis: Driving Strategic Commercial Acceleration (Depth)</strong>
   </ul>
 
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     Strategic Commercial Acceleration, executing high-impact lead and demand gen programs that move the needle.
-  </p>  
+  </p>
 
-  <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
+  <div style="margin-top: 1rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
     <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
        This axis highlights my deep, core impact in "implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline". This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue.
     </p>
