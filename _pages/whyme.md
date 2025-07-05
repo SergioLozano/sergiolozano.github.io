@@ -89,7 +89,7 @@ nav_order: 6
   position: absolute;
   top: 10px;
   right: 10px;
-  background-color: var(--global-footer-bg-color);
+  background-color: var(--global-quadrant-top-right-color);
   color: var(--global-hover-text-color);
   padding: 4px 8px;
   border-radius: 4px;
