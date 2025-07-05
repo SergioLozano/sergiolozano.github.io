@@ -81,7 +81,7 @@ nav_order: 6
 
 .quadrant.top-right {
   background-color: var(--global-quadrant-top-right-color);
-  border-color: var(--global-text-color);
+  border-color: var(--global-divider-color);
   position: relative;
 }
 
