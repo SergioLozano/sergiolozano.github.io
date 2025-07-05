@@ -191,7 +191,7 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
     🧩 Why I Fit in the Upper-Right Corner
   </h3>
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation</strong> in commercial growth. This <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth, allows me to seamlessly bridge the gap between Product, Sales, Marketing, and Customer Success while executing high-impact commercial programs.
+    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation</strong> in driving commercial growth. This enables me to bridge the gap between Product, Sales, Marketing, and Customer Success to execute high-impact commercial programs effectively.
   </p>
 
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
@@ -217,12 +217,8 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
     <strong>Y-axis:</strong> Strategic Commercial Acceleration.
     </p>  
     <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
-      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. This is a representation of my deep, core impact in commercial growth and pipeline acceleration leveraging inbound and account-based marketing tactics that deliver results. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
+      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. I drive commercial growth and accelerate pipelines through inbound and account-based marketing. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
     </p>
-    <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
-      It comes from years of practice in SEO, thought leadership content, performance marketing, campaign management, email automation, A/B testing and personalization tactics. 
-    </p>
-  </div>
 
   <p style="font-size: 0.85rem; margin-top: 1.5rem; color: var(--global-text-color-light);">
     Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
