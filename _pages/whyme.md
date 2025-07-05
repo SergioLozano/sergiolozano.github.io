@@ -232,20 +232,20 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
     <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.
     </p>    
-    <p style="margin: 0; color: var(--global-text-color);">
+    <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
       It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
     </p>
-    <ul style="margin: 0; color: var(--global-text-color);">
+    <ul style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
       <li>Product Positioning & Messaging</li>
       <li>Go-to-Market Strategy</li>
       <li>Customer Experience (CX)</li>
       <li>Product-led Growth</li>
       <li>Sales Enablement</li>
     </ul>
-    <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+    <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     <strong>Y-axis:</strong> Strategic Commercial Acceleration – executing high-impact lead and demand gen programs that move the needle.
     </p>  
-    <p style="margin: 0; color: var(--global-text-color);">
+    <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
       This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue. This is a representation of my deep, core impact in “implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline”.
     </p>
   </div>
