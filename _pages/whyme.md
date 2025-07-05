@@ -163,6 +163,21 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
   The idea behind this matrix is simple: <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth.
 </p>
 
+<h4 style="text-align: left; font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
+    X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)
+</h4>
+
+<p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+  <strong>Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.</strong>
+</p>
+ 
+This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
+  * Product Positioning & Messaging
+  * Go-to-Market Strategy
+  * Customer Experience (CX)
+  * Sales Enablement
+
+
 * **X-axis:** 
 Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.
 
