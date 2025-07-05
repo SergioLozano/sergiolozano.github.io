@@ -80,7 +80,7 @@ nav_order: 6
 }
 
 .quadrant.top-right {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-quadrant-top-right-color);
   border-color: var(--global-text-color);
   position: relative;
 }
@@ -89,7 +89,7 @@ nav_order: 6
   position: absolute;
   top: 10px;
   right: 10px;
-  background-color: var(--global-quadrant-top-right-color);
+  background-color: var(--global-footer-bg-color);
   color: var(--global-hover-text-color);
   padding: 4px 8px;
   border-radius: 4px;
