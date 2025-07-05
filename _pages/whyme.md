@@ -123,9 +123,9 @@ nav_order: 6
     My T-Shaped Professional Positioning Matrix
 </h1>
 
-As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years driving success for tech products**, I enjoy turning strategic vision into tangible commercial growth. How? Well, I do so by applying techniques from different product marketing-adjacent disciplines to bridge the gap between product innovation and real value.
+As a **Full-Stack Product Marketing Manager** with **over 10 years of experience driving success for tech products**,  transform strategic vision into tangible commercial growth. I achieve this by bridging the gap between product innovation and real value, applying techniques from various product marketing disciplines.
 
-Allow me to show you how this looks. The core idea behind this matrix is to define one axis that represents my broad, interconnected capabilities and another that represents a deep, impactful specialization.
+My expertise can be mapped on a matrix. One axis represents my broad, interconnected capabilities across product marketing, while the other signifies my deep, impactful specialization in driving commercial results. This allows me to demonstrate both the breadth of my skills and the depth of my impact.
 
 <div class="matrix-wrapper">
   <div class="y-axis-label">Driving Strategic Commercial Acceleration (Depth)</div>
@@ -166,10 +166,6 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
 <h4 style="text-align: left; font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
     X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)
 </h4>
-
-<p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-  <strong>Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.</strong>
-</p>
  
 <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
   This axis represents a "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. Soft skills and marketing-adjecent skills add breadth. It values an interdisciplinary range of expertise.
@@ -223,15 +219,11 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
 </div>
 
 <div class="social">
-    <div class="contact-icons"> 
+  <div class="contact-icons">
       <a href="https://www.linkedin.com/in/sergio-lozano-alvarez" title="LinkedIn" rel="external nofollow noopener" target="_blank">
-        <i class="fa-brands fa-linkedin"></i></a> </div> <div class="contact-note"></div> </div>
-  <div class="social">
-    <div class="contact-icons">
-      <a href="https://www.linkedin.com/in/sergio-lozano-alvarez" title="LinkedIn" rel="external nofollow noopener" target="_blank">
-        <i class="fa-brands fa-linkedin">
-        </i>
-      </a> 
-    </div>
+      <i class="fa-brands fa-linkedin">
+      </i>
+    </a> 
+  </div>
   <div class="contact-note"></div>
 </div>
