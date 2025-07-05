@@ -123,9 +123,9 @@ nav_order: 6
     My T-Shaped Professional Positioning Matrix
 </h1>
 
-As a **Full-Stack Product Marketing Manager** with **over 10 years of experience driving success for tech products**,  transform strategic vision into tangible commercial growth. I achieve this by bridging the gap between product innovation and real value, applying techniques from various product marketing disciplines.
+As a **Full-Stack Product Marketing Manager** with **over 10 years of experience driving success for tech products**, I transform strategic vision into tangible tangible commercial growth by bridging the gap between product innovation and real value.
 
-My expertise can be mapped on a matrix. One axis represents my broad, interconnected capabilities across product marketing, while the other signifies my deep, impactful specialization in driving commercial results. This allows me to demonstrate both the breadth of my skills and the depth of my impact.
+My expertise can be mapped on a matrix: One axis represents my broad capabilities across disciplines; the other, my deep specialization in driving commercial results. Together they prove both the breadth of my skills and the depth of my impact.
 
 <div class="matrix-wrapper">
   <div class="y-axis-label">Driving Strategic Commercial Acceleration (Depth)</div>
