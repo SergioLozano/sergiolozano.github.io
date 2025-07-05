@@ -167,15 +167,17 @@ My expertise can be mapped on a matrix: One axis represents my broad capabilitie
     X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)
 </h4>
  
-<p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-  This axis represents a "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. Soft skills and marketing-adjecent skills add breadth. It values an interdisciplinary range of expertise.
+<p style="font-size: 0.95rem; line-height: 1.4; color: var(--global-text-color);">
+  This axis represents a "full-stack" approach to commercial challenges, bridging the gap between Product, Sales, Marketing, and Customer Success. Interdisciplinary expertise, including soft skills and marketing-adjacent capabilities, provides significant breadth.
+</p>
+  
 
 <h4 style="text-align: left; font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
     Y-axis: Driving Strategic Commercial Acceleration (Depth)
 </h4>
 
-<p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-  This axis highlights the depth of strategic commercial growth. It focuses on the core impact in implementing tactics for business growth and revenue, such as lead and demand generation programs. Here, depth comes from proficiency in account-based marketing tactics to accelerate sales pipeline and in inbound product marketing to deliver growth.
+<p style="font-size: 0.95rem; line-height: 1.4; color: var(--global-text-color);">
+  This axis highlights the depth of the impact in strategic commercial growth, focusing on lead and demand generation programs. Proficiency in account-based marketing (accelerating pipelines) and inbound product marketing (delivering growth) drives this depth.
 </p>
 
 
