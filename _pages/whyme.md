@@ -216,7 +216,7 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
     🧩 Why I Fit in the Upper-Right Corner
   </h3>
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation<strong> in commercial growth. This <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth, allows me to seamlessly bridge the gap between Product, Sales, Marketing, and Customer Success while executing high-impact commercial programs.
+    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation</strong> in commercial growth. This <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth, allows me to seamlessly bridge the gap between Product, Sales, Marketing, and Customer Success while executing high-impact commercial programs.
   </p>
 
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
@@ -256,6 +256,7 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
     Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
   </p>
 </div>
+</hr>
 
 ### Why I Fit in the Upper-Right Corner:
 
