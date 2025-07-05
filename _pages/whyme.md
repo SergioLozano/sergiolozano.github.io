@@ -224,12 +224,8 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
   </p>
 
 
-  <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-   <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.
-  </p>  
-
   <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+    <p style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.
     </p>    
     <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
@@ -249,17 +245,6 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
       This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue. This is a representation of my deep, core impact in “implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline”.
     </p>
   </div>
-
-  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-   <strong>Y-axis:</strong> Strategic Commercial Acceleration – executing high-impact lead and demand gen programs that move the needle.
-  </p>  
-
-  <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin: 0; color: var(--global-text-color);">
-      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue. This is a representation of my deep, core impact in “implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline”.
-    </p>
-  </div>
-
 
   <p style="font-size: 0.85rem; margin-top: 1.5rem; color: var(--global-text-color-light);">
     Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
