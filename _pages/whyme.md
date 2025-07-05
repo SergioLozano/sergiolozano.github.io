@@ -192,10 +192,6 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
   </h3>
 
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    A versatile full-stack PMM with a sharp focus on accelerating revenue growth. Positioned in the top-right by broad product marketing fluency, anchored by a proven track record in strategic growth execution. 
-  </p>
-
-  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation</strong> in driving commercial growth. This ensures that I am not just creating marketing materials, but actively accelerating your sales pipeline and contributing to your bottom line.
   </p>
 
@@ -219,5 +215,8 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
     <p style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
       This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. I drive commercial growth and accelerate pipelines through inbound and account-based marketing. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
     </p>
+
+  <p style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+    A versatile full-stack PMM with a sharp focus on accelerating revenue growth. Positioned in the top-right by broad product marketing fluency, anchored by a proven track record in strategic growth execution. 
+  </p>
 </div>
-</hr>
