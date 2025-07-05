@@ -159,7 +159,7 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
     ❓ Understanding the Axes
 </h3>
 
-<p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+<p style="font-size: 0.95rem; line-height: 1.4; color: var(--global-text-color);">
   The idea behind this matrix is simple: <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth.
 </p>
 
@@ -224,7 +224,7 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
   </p>
 
 
-  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+  <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
    <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.
   </p>  
 
