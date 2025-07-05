@@ -121,7 +121,7 @@ nav_order: 6
 
 <h1 style="text-align: center; font-size: 1.9rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
     My T-Shaped Professional Positioning Matrix
-</h3>
+</h1>
 
 As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years driving success for tech products**, I enjoy turning strategic vision into tangible commercial growth. How? Well, I do so by applying techniques from different product marketing-adjacent disciplines to bridge the gap between product innovation and real value.
 
