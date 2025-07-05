@@ -44,7 +44,6 @@ nav_order: 4
       <a href="https://sergiolozano.com/assets/resources/template-release-scope.pptx" class="btn">Download PPTX</a>
     </div>
   </div>
-</div>
 
   <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
     <img src="/assets/img/thumbnail-gtm-value-prop-canvas.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
