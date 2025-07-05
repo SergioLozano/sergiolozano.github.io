@@ -215,8 +215,23 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
     <p style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
       This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. I drive commercial growth and accelerate pipelines through inbound and account-based marketing. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
     </p>
+  </div>
 
   <p style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
     A versatile full-stack PMM with a sharp focus on accelerating revenue growth. Positioned in the top-right by broad product marketing fluency, anchored by a proven track record in strategic growth execution. 
   </p>
+</div>
+
+<div class="social">
+    <div class="contact-icons"> 
+      <a href="https://www.linkedin.com/in/sergio-lozano-alvarez" title="LinkedIn" rel="external nofollow noopener" target="_blank">
+        <i class="fa-brands fa-linkedin"></i></a> </div> <div class="contact-note"></div> </div>
+  <div class="social">
+    <div class="contact-icons">
+      <a href="https://www.linkedin.com/in/sergio-lozano-alvarez" title="LinkedIn" rel="external nofollow noopener" target="_blank">
+        <i class="fa-brands fa-linkedin">
+        </i>
+      </a> 
+    </div>
+  <div class="contact-note"></div>
 </div>
