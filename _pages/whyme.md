@@ -172,43 +172,18 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
 </p>
  
 <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-  This axis represents a "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. Soft skills and marketing-adjecent skills add breadth. It values an interdisciplinary range of expertise. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
-</p>
-
-<ul style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; padding-left: 1rem; color: var(--global-text-color-light);">
-  <li>Product Positioning & Messaging</li>
-  <li>Go-to-Market Strategy</li>
-  <li>Customer Experience (CX)</li>
-  <li>Product-led Growth</li>
-  <li>Sales Enablement</li>
-</ul>
+  This axis represents a "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. Soft skills and marketing-adjecent skills add breadth. It values an interdisciplinary range of expertise.
 
 <h4 style="text-align: left; font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
     Y-axis: Driving Strategic Commercial Acceleration (Depth)
 </h4>
 
 <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-  This axis highlights the depth of strategic commercial growth. It focuses on the core impact in implementing tactics for business growth and revenue, such as lead and demand generation programs. Here, depth comes from proficiency in account-based marketing tactics to accelerate sales pipeline and in inbound product marketing to deliver growth. This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue.
+  This axis highlights the depth of strategic commercial growth. It focuses on the core impact in implementing tactics for business growth and revenue, such as lead and demand generation programs. Here, depth comes from proficiency in account-based marketing tactics to accelerate sales pipeline and in inbound product marketing to deliver growth.
 </p>
 
-* **X-axis:** 
-Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.
 
-* **Y-axis:**
-Strategic Commercial Acceleration, executing high-impact lead and demand gen programs that move the needle
-
-* **X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)**  
-This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
-  * Product Positioning & Messaging
-  * Go-to-Market Strategy
-  * Customer Experience (CX)
-  * Sales Enablement
-
-* **Y-axis: Driving Strategic Commercial Acceleration (Depth)**  
-This axis highlights my deep, core impact in "implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline". This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue.
-
-
-<hr style="margin: 3rem auto; max-width: 150px; border: 0; border-top: 1px dashed var(--global-divider-color);" />
+<hr style="margin: 3rem auto; max-width: 150px; border: 0; border-top: 1px dashed var(--global-divider-color);"/>
 
 <!-- T-Shaped Matrix Section -->
 <div style="margin: 3rem auto; max-width: 850px; background-color: var(--global-card-bg-color); padding: 2rem; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
@@ -226,7 +201,7 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
 
   <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
     <p style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.
+    <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration.
     </p>    
     <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
       It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
@@ -239,10 +214,13 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
       <li>Sales Enablement</li>
     </ul>
     <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    <strong>Y-axis:</strong> Strategic Commercial Acceleration – executing high-impact lead and demand gen programs that move the needle.
+    <strong>Y-axis:</strong> Strategic Commercial Acceleration.
     </p>  
     <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
-      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue. This is a representation of my deep, core impact in “implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline”.
+      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. This is a representation of my deep, core impact in commercial growth and pipeline acceleration leveraging inbound and account-based marketing tactics that deliver results. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
+    </p>
+    <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
+      It comes from years of practice in SEO, thought leadership content, performance marketing, campaign management, email automation, A/B testing and personalization tactics. 
     </p>
   </div>
 
