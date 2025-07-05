@@ -119,7 +119,9 @@ nav_order: 6
 }
 </style>
 
-# My T-Shaped Professional Positioning Matrix
+<h1 style="text-align: center; font-size: 1.9rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
+    My T-Shaped Professional Positioning Matrix
+</h3>
 
 As a **Copenhagen-based Full-Stack Product Marketing Manager** with **10+ years driving success for tech products**, I enjoy turning strategic vision into tangible commercial growth. How? Well, I do so by applying techniques from different product marketing-adjacent disciplines to bridge the gap between product innovation and real value.
 
@@ -161,40 +163,6 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
   The idea behind this matrix is simple: <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth.
 </p>
 
-
-<!-- Understanding the axes Section -->
-<div style="margin: 3rem auto; max-width: 850px; background-color: var(--global-card-bg-color); padding: 2rem; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-  <h4 style="text-align: left; font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
-    X-axis: Interdisciplinary Product Marketing & Cross-Functional Integration (Breadth)
-
-  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.
-  </p>  
-
-  <div style="margin-top: 1rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
-       This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans Product Positioning & Messaging, Go-to-Market Strategy, Customer Experience (CX), Product-Led Growth, and Sales Enablement.
-    </p>
-  </div>
-</div>
-
-<div style="margin: 3rem auto; max-width: 850px; background-color: var(--global-card-bg-color); padding: 2rem; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-  <h4 style="text-align: left; font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
-    Y-axis: Driving Strategic Commercial Acceleration (Depth)
-
-  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    Strategic Commercial Acceleration, executing high-impact lead and demand gen programs that move the needle.
-  </p>  
-
-  <div style="margin-top: 1rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
-       This axis highlights my deep, core impact in "implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline". This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue.
-    </p>
-  </div>
-</div>
-
-### Understanding the Axes:
-
 * **X-axis:** 
 Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.
 
@@ -210,12 +178,6 @@ This axis represents an "full-stack" or holistic approach to solving commercial 
 
 * **Y-axis: Driving Strategic Commercial Acceleration (Depth)**  
 This axis highlights my deep, core impact in "implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline". This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue.
-
-### Why I Fit in the Upper-Right Corner:
-
-As a "Copenhagen-based Full-Stack Product Marketing Manager" with "10+ years driving success for SaaS & on-prem products", I possess an extensive breadth of expertise covering "Product Positioning & Messaging," "Go-to-Market Strategy," "Customer Experience (CX)," and "Sales Enablement". This holistic understanding allows me to seamlessly "bridge the gap between Product, Sales, Marketing, and Customer Success".
-
-My deep specialization lies in "Commercial Growth," where I've demonstrated direct success by "implementing lead and demand generation programs...that deliver results and accelerate the sales pipeline", showing my capacity to translate broad knowledge into tangible, impactful growth. This unique combination ensures I am not just creating marketing materials, but actively accelerating your sales pipeline and contributing to your bottom line.
 
 
 <hr style="margin: 3rem auto; max-width: 150px; border: 0; border-top: 1px dashed var(--global-divider-color);" />
@@ -244,3 +206,9 @@ My deep specialization lies in "Commercial Growth," where I've demonstrated dire
     Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
   </p>
 </div>
+
+### Why I Fit in the Upper-Right Corner:
+
+As a "Copenhagen-based Full-Stack Product Marketing Manager" with "10+ years driving success for SaaS & on-prem products", I possess an extensive breadth of expertise covering "Product Positioning & Messaging," "Go-to-Market Strategy," "Customer Experience (CX)," and "Sales Enablement". This holistic understanding allows me to seamlessly "bridge the gap between Product, Sales, Marketing, and Customer Success".
+
+My deep specialization lies in "Commercial Growth," where I've demonstrated direct success by "implementing lead and demand generation programs...that deliver results and accelerate the sales pipeline", showing my capacity to translate broad knowledge into tangible, impactful growth. This unique combination ensures I am not just creating marketing materials, but actively accelerating your sales pipeline and contributing to your bottom line.
