@@ -198,7 +198,7 @@ My expertise can be mapped on a matrix: One axis represents my broad capabilitie
     <strong>X-axis - Full-stack Product Marketing & Cross-Functional Integration:</strong>
     </p>    
     <p style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
-      It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
+      It emphasizes my versatility and interconnectedness of my skills, forming the broad top bar of my 'T'. My expertise spans:
     </p>
     <ul style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
       <li>Product Positioning & Messaging</li>
@@ -211,7 +211,7 @@ My expertise can be mapped on a matrix: One axis represents my broad capabilitie
     <strong>Y-axis - Strategic Commercial Acceleration:</strong>
     </p>  
     <p style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
-      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. I drive commercial growth and accelerate pipelines through inbound and account-based marketing. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
+      This is the vertical bar of my 'T'. It showcases my direct contribution to commercial growth and sales pipeline acceleration by executing high-impact lead and demand gen programs, rooted in years of practice in B2B marketing, email automation, thought leadership content, SEO, and personalization tactics.
     </p>
   </div>
 
