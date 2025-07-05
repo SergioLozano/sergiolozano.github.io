@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /whyme/
-title: Why Me?
+title: why me?
 description: Market yourself to anything else. This page explains my positioning as a product marketing professional, highlighting how my broad capabilities and deep specialization can drive significant commercial results for your organization
-nav: false
-nav_order: 6
+nav: true
+nav_order: 2
 ---
 
 <style>

@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description: This space is packed with templates, frameworks, and kits built from real-world experience in product marketing, sales enablement, and CX. Each resource is tested in the field and designed to help you solve problems, align teams, and get better results. Whether you're launching a feature or refining your messaging, these tools are here to save time and bring structure. Scroll down, grab what you need, and make it yours.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- Filter Buttons -->
