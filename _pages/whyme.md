@@ -171,11 +171,17 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
   <strong>Full-stack Product Marketing & Cross-Functional Integration, bridging Product, Sales, Marketing, and CX.</strong>
 </p>
  
-This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
-  * Product Positioning & Messaging
-  * Go-to-Market Strategy
-  * Customer Experience (CX)
-  * Sales Enablement
+<p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+  This axis represents an "full-stack" or holistic approach to solving commercial challenges, including the ability to bridge the gap between Product, Sales, Marketing, and Customer Success. It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
+</p>
+
+<ul style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; padding-left: 1rem; color: var(--global-text-color-light);">
+  <li>Product Positioning & Messaging</li>
+  <li>Go-to-Market Strategy</li>
+  <li>Customer Experience (CX)</li>
+  <li>Product-led Growth</li>
+  <li>Sales Enablement</li>
+</ul>
 
 
 * **X-axis:** 
