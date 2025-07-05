@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-why-me",
+          title: "why me?",
+          description: "Market yourself to anything else. This page explains my positioning as a product marketing professional, highlighting how my broad capabilities and deep specialization can drive significant commercial results for your organization",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/whyme/";
+          },
+        },{id: "nav-projects",
           title: "projects",
           description: "These are some of the projects I&#39;ve been working throughout my career.",
           section: "Navigation",
