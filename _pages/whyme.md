@@ -216,19 +216,41 @@ This axis highlights my deep, core impact in "implementing lead and demand gener
     🧩 Why I Fit in the Upper-Right Corner
   </h3>
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    The idea behind this matrix is simple: <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth.
+    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation<strong> in commercial growth. This <strong>interdisciplinary range</strong> across product marketing, paired with <strong>deep specialization</strong> in driving commercial growth, allows me to seamlessly bridge the gap between Product, Sales, Marketing, and Customer Success while executing high-impact commercial programs.
   </p>
 
-  <ul style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; padding-left: 1rem; color: var(--global-text-color-light);">
-    <li><strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.</li>
-    <li><strong>Y-axis:</strong> Strategic Commercial Acceleration – executing high-impact lead and demand gen programs that move the needle.</li>
-  </ul>
+  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+    A versatile full-stack PMM with a sharp focus on accelerating revenue growth. Positioned in the top-right by broad product marketing fluency, anchored by a proven track record in strategic growth execution.
+  </p>
+
+
+  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+   <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration – bridging Product, Sales, Marketing, and CX.
+  </p>  
 
   <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin: 0; font-style: italic; color: var(--global-text-color);">
-      “You’ll find me in the upper-right quadrant: a versatile full-stack PMM with a sharp focus on accelerating revenue growth.”
+    <p style="margin: 0; color: var(--global-text-color);">
+      It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
+    </p>
+    <ul style="margin: 0; color: var(--global-text-color);">
+      <li>Product Positioning & Messaging</li>
+      <li>Go-to-Market Strategy</li>
+      <li>Customer Experience (CX)</li>
+      <li>Product-led Growth</li>
+      <li>Sales Enablement</li>
+    </ul>
+  </div>
+
+  <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
+   <strong>Y-axis:</strong> Strategic Commercial Acceleration – executing high-impact lead and demand gen programs that move the needle.
+  </p>  
+
+  <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
+    <p style="margin: 0; color: var(--global-text-color);">
+      This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue. This is a representation of my deep, core impact in “implementing lead and demand generation programs leveraging growth and account-based marketing tactics that deliver results and accelerate the sales pipeline”.
     </p>
   </div>
+
 
   <p style="font-size: 0.85rem; margin-top: 1.5rem; color: var(--global-text-color-light);">
     Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
