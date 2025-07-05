@@ -190,44 +190,34 @@ Allow me to show you how this looks. The core idea behind this matrix is to defi
   <h3 style="text-align: center; font-size: 1.4rem; font-weight: 700; margin-bottom: 1rem; color: var(--global-text-color);">
     🧩 Why I Fit in the Upper-Right Corner
   </h3>
+
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation</strong> in driving commercial growth. This enables me to bridge the gap between Product, Sales, Marketing, and Customer Success to execute high-impact commercial programs effectively.
+    A versatile full-stack PMM with a sharp focus on accelerating revenue growth. Positioned in the top-right by broad product marketing fluency, anchored by a proven track record in strategic growth execution. 
   </p>
 
   <p style="font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    A versatile full-stack PMM with a sharp focus on accelerating revenue growth. Positioned in the top-right by broad product marketing fluency, anchored by a proven track record in strategic growth execution.
+    I combine an extensive <strong>breadth of expertise</strong> covering several disciplines with a <strong>deep specialisation</strong> in driving commercial growth. This ensures that I am not just creating marketing materials, but actively accelerating your sales pipeline and contributing to your bottom line.
   </p>
-
 
   <div style="margin-top: 2rem; background: rgba(127, 127, 127, 0.1); padding: 1rem 1.5rem; border-left: 4px solid var(--global-theme-color); border-radius: 8px;">
-    <p style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    <strong>X-axis:</strong> Full-stack Product Marketing & Cross-Functional Integration.
+    <p style="margin-top: 1rem; font-size: 0.85rem; line-height: 1.6; color: var(--global-text-color);">
+    <strong>X-axis - Full-stack Product Marketing & Cross-Functional Integration:</strong>
     </p>    
-    <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
+    <p style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
       It emphasizes my versatility and interconnectedness across the entire product ecosystem, forming the broad top bar of my 'T'. My expertise spans:
     </p>
-    <ul style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
+    <ul style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
       <li>Product Positioning & Messaging</li>
       <li>Go-to-Market Strategy</li>
       <li>Customer Experience (CX)</li>
       <li>Product-led Growth</li>
       <li>Sales Enablement</li>
     </ul>
-    <p style="margin-top: 2rem; font-size: 0.95rem; line-height: 1.6; color: var(--global-text-color);">
-    <strong>Y-axis:</strong> Strategic Commercial Acceleration.
+    <p style="margin-top: 2rem; font-size: 0.85rem; line-height: 1.6; color: var(--global-text-color);">
+    <strong>Y-axis - Strategic Commercial Acceleration:</strong>
     </p>  
-    <p style="font-size: 0.95rem; line-height: 1.6; margin: 0; color: var(--global-text-color);">
+    <p style="font-size: 0.85rem; line-height: 1.5; margin: 0; color: var(--global-text-color);">
       This is the powerful vertical bar of my 'T', showcasing my direct contribution to business growth and revenue by executing high-impact lead and demand gen programs that move the needle. I drive commercial growth and accelerate pipelines through inbound and account-based marketing. It comes from years of practice in SEO, email automation, thought leadership content, A/B testing and personalization tactics. 
     </p>
-
-  <p style="font-size: 0.85rem; margin-top: 1.5rem; color: var(--global-text-color-light);">
-    Positioned in the top-right by design—broad product marketing fluency, anchored by a proven track record in strategic growth execution.
-  </p>
 </div>
 </hr>
-
-### Why I Fit in the Upper-Right Corner:
-
-As a "Copenhagen-based Full-Stack Product Marketing Manager" with "10+ years driving success for SaaS & on-prem products", I possess an extensive breadth of expertise covering "Product Positioning & Messaging," "Go-to-Market Strategy," "Customer Experience (CX)," and "Sales Enablement". This holistic understanding allows me to seamlessly "bridge the gap between Product, Sales, Marketing, and Customer Success".
-
-My deep specialization lies in "Commercial Growth," where I've demonstrated direct success by "implementing lead and demand generation programs...that deliver results and accelerate the sales pipeline", showing my capacity to translate broad knowledge into tangible, impactful growth. This unique combination ensures I am not just creating marketing materials, but actively accelerating your sales pipeline and contributing to your bottom line.
