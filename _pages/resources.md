@@ -55,6 +55,17 @@ nav_order: 4
       <a href="https://sergiolozano.com/assets/resources/template-value-prop-canvas-gtm.pptx" class="btn">Download PPTX</a>
     </div>
   </div>
+
+  <div style="display: flex; gap: 1rem; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="/assets/img/thumbnail-customer-personas.jpg" alt="Icon in beige of a presentation" style="width: 120px; height: auto; border: 1px solid #ccc;" />
+    <div>
+      <h3>Template for Customer Personas</h3>
+      <p style="font-size: 0.85rem;">This template is designed to help product marketers define user, buyer and influencer personas to leverage those insights in go to market strategies.</p>
+      <p style="font-size: 0.85rem;">Includes instructions and a pre-filled example. Download and customise the PPTX or preview the PDF..</p>
+      <a href="https://sergiolozano.com/assets/resources/customer-persona-template.pdf" class="btn btn--primary">View PDF</a>
+      <a href="https://sergiolozano.com/assets/resources/customer-persona-template.pptx" class="btn">Download PPTX</a>
+    </div>
+  </div>
 </div>
 
 
